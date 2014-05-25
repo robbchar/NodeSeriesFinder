@@ -126,7 +126,12 @@ app.get('/userInfo',
     httpsOptions.path = '/user/show/' + req.user.id + '.xml?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      res.render('userInfo', { response: jsonData });
+      if(req.query.nodeOnly === 'true') {
+        res.render('userInfo', { response: jsonData });
+        return;
+      }
+
+      res.send(jsonData);
     });
   }
 );
@@ -140,7 +145,12 @@ app.get('/shelfInfo',
     httpsOptions.path = '/review/list/' + req.user.id + '.xml?key=' + appInfo.key + '&page=' + pageNum + '&shelf=' + shelfName;
 
     requestResource(function (jsonData) {
-      res.render('shelfInfo', { response: jsonData, name: shelfName });
+      if(req.query.nodeOnly === 'true') {
+        res.render('shelfInfo', { response: jsonData, name: shelfName });
+        return;
+      }
+
+      res.send(jsonData);
     });
   }
 );
@@ -152,7 +162,12 @@ app.get('/bookInfo',
     httpsOptions.path = '/book/show/' + bookId + '.xml?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      res.render('bookInfo', { response: jsonData });
+      if(req.query.nodeOnly === 'true') {
+        res.render('bookInfo', { response: jsonData });
+        return;
+      }
+
+      res.send(jsonData);
     });
   }
 );
@@ -165,7 +180,12 @@ app.get('/seriesInfo',
     httpsOptions.path = '/series/' + seriesId + '?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      res.render('seriesInfo', { response: jsonData });
+      if(req.query.nodeOnly === 'true') {
+        res.render('seriesInfo', { response: jsonData });
+        return;
+      }
+
+      res.send(jsonData);
     });
   }
 );
