@@ -1,0 +1,662 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key>
+      <![CDATA[ qWqSov4tZxgcRuMjoabsg ]]>
+    </key>
+    <method>
+      <![CDATA[ book_show ]]>
+    </method>
+  </Request>
+  <book>
+    <id>50</id>
+    <title>Hatchet (Brian's Saga, #1)</title>
+    <isbn>
+      <![CDATA[ 0689840926 ]]>
+    </isbn>
+    <isbn13>
+      <![CDATA[ 9780689840920 ]]>
+    </isbn13>
+    <asin>
+      <![CDATA[ ]]>
+    </asin>
+    <image_url>
+      https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+    </image_url>
+    <small_image_url>
+      https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+    </small_image_url>
+    <publication_year/>
+    <publication_month/>
+    <publication_day/>
+    <publisher/>
+    <language_code/>
+    <is_ebook>false</is_ebook>
+    <description>
+      <![CDATA[
+      <p>Since it was first published in 1987, the story of thirteen-year-old Brian Robeson's survival following a plane crash has become a modern classic. Stranded in the desolate wilderness, Brian uses his instincts and his hatchet to stay alive for fifty-four harrowing days. </p><p> This twentieth-anniversary edition of <em>Hatchet</em> contains a new introduction and sidebar commentary by Gary Paulsen, written especially for this volume. Drew Willis's detailed pen-and-ink illustrations complement the descriptions in the text and add a new dimension to the book. This handsome edition of the Newbery Honor book will be treasured by <em>Hatchet</em> fans as well as by readers encountering Brian's unforgettable story for the first time.</p>
+      ]]>
+    </description>
+    <work>
+      <best_book_id type="integer">50</best_book_id>
+      <books_count type="integer">76</books_count>
+      <default_chaptering_book_id type="integer" nil="true"/>
+      <default_description_language_code nil="true"/>
+      <desc_user_id type="integer">-30</desc_user_id>
+      <id type="integer">1158125</id>
+      <media_type>book</media_type>
+      <original_language_id type="integer" nil="true"/>
+      <original_publication_day type="integer">1</original_publication_day>
+      <original_publication_month type="integer">11</original_publication_month>
+      <original_publication_year type="integer">1986</original_publication_year>
+      <original_title>Hatchet</original_title>
+      <rating_dist>4:24956|5:18917|3:22132|2:8472|1:4146|total:78623</rating_dist>
+      <ratings_count type="integer">127751</ratings_count>
+      <ratings_sum type="integer">464132</ratings_sum>
+      <reviews_count type="integer">156189</reviews_count>
+      <text_reviews_count type="integer">6428</text_reviews_count>
+    </work>
+    <average_rating>3.63</average_rating>
+    <num_pages>
+      <![CDATA[ ]]>
+    </num_pages>
+    <format>
+      <![CDATA[ ]]>
+    </format>
+    <edition_information>
+      <![CDATA[ ]]>
+    </edition_information>
+    <ratings_count>
+      <![CDATA[ 120852 ]]>
+    </ratings_count>
+    <text_reviews_count>
+      <![CDATA[ 5714 ]]>
+    </text_reviews_count>
+    <url>
+      <![CDATA[ https://www.goodreads.com/book/show/50.Hatchet ]]>
+    </url>
+    <link>
+      <![CDATA[ https://www.goodreads.com/book/show/50.Hatchet ]]>
+    </link>
+    <authors>
+      <author>
+        <id>18</id>
+        <name>Gary Paulsen</name>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/authors/1309159225p5/18.jpg
+          ]]>
+        </image_url>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/authors/1309159225p2/18.jpg
+          ]]>
+        </small_image_url>
+        <link>
+          <![CDATA[
+          https://www.goodreads.com/author/show/18.Gary_Paulsen
+          ]]>
+        </link>
+        <average_rating>3.71</average_rating>
+        <ratings_count>209031</ratings_count>
+        <text_reviews_count>15711</text_reviews_count>
+      </author>
+    </authors>
+    <reviews_widget>
+      <![CDATA[
+      <style> #goodreads-widget { font-family: georgia, serif; padding: 18px 0; width:565px; } #goodreads-widget h1 { font-weight:normal; font-size: 16px; border-bottom: 1px solid #BBB596; margin-bottom: 0; } #goodreads-widget a { text-decoration: none; color:#660; } iframe{ background-color: #fff; } #goodreads-widget a:hover { text-decoration: underline; } #goodreads-widget a:active { color:#660; } #gr_footer { width: 100%; border-top: 1px solid #BBB596; text-align: right; } #goodreads-widget .gr_branding{ color: #382110; font-size: 11px; text-decoration: none; font-family: verdana, arial, helvetica, sans-serif; } </style> <div id="goodreads-widget"> <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/50.Hatchet">Hatchet Reviews</a></h1></div> <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0689840926&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe> <div id="gr_footer"> <a href="https://www.goodreads.com/book/show/50.Hatchet?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a> </div> </div>
+      ]]>
+    </reviews_widget>
+    <popular_shelves>
+      <shelf name="to-read" count="13135"/>
+      <shelf name="young-adult" count="1519"/>
+      <shelf name="fiction" count="1016"/>
+      <shelf name="currently-reading" count="836"/>
+      <shelf name="adventure" count="551"/>
+      <shelf name="favorites" count="523"/>
+      <shelf name="childrens" count="436"/>
+      <shelf name="ya" count="413"/>
+      <shelf name="classics" count="407"/>
+      <shelf name="survival" count="381"/>
+    </popular_shelves>
+    <book_links>
+      <book_link>
+        <id>3</id>
+        <name>Barnes & Noble</name>
+        <link>https://www.goodreads.com/book_link/follow/3</link>
+      </book_link>
+      <book_link>
+        <id>10</id>
+        <name>Audible</name>
+        <link>https://www.goodreads.com/book_link/follow/10</link>
+      </book_link>
+      <book_link>
+        <id>4</id>
+        <name>Abebooks</name>
+        <link>https://www.goodreads.com/book_link/follow/4</link>
+      </book_link>
+      <book_link>
+        <id>882</id>
+        <name>Book Depository</name>
+        <link>https://www.goodreads.com/book_link/follow/882</link>
+      </book_link>
+      <book_link>
+        <id>1027</id>
+        <name>Kobo</name>
+        <link>https://www.goodreads.com/book_link/follow/1027</link>
+      </book_link>
+      <book_link>
+        <id>9</id>
+        <name>Indigo</name>
+        <link>https://www.goodreads.com/book_link/follow/9</link>
+      </book_link>
+      <book_link>
+        <id>2</id>
+        <name>Half.com</name>
+        <link>https://www.goodreads.com/book_link/follow/2</link>
+      </book_link>
+      <book_link>
+        <id>5</id>
+        <name>Alibris</name>
+        <link>https://www.goodreads.com/book_link/follow/5</link>
+      </book_link>
+      <book_link>
+        <id>2102</id>
+        <name>iBooks</name>
+        <link>https://www.goodreads.com/book_link/follow/2102</link>
+      </book_link>
+      <book_link>
+        <id>107</id>
+        <name>Better World Books</name>
+        <link>https://www.goodreads.com/book_link/follow/107</link>
+      </book_link>
+      <book_link>
+        <id>3928</id>
+        <name>Target.com</name>
+        <link>https://www.goodreads.com/book_link/follow/3928</link>
+      </book_link>
+      <book_link>
+        <id>1602</id>
+        <name>Google Play</name>
+        <link>https://www.goodreads.com/book_link/follow/1602</link>
+      </book_link>
+      <book_link>
+        <id>7</id>
+        <name>IndieBound</name>
+        <link>https://www.goodreads.com/book_link/follow/7</link>
+      </book_link>
+      <book_link>
+        <id>8</id>
+        <name>Libraries</name>
+        <link>https://www.goodreads.com/book_link/follow/8</link>
+      </book_link>
+    </book_links>
+    <series_works>
+      <series_work>
+        <id>268218</id>
+        <user_position>1</user_position>
+        <series>
+          <id>62223</id>
+          <title>
+            <![CDATA[ Brian's Saga ]]>
+          </title>
+          <description>
+            <![CDATA[ ]]>
+          </description>
+          <note>
+            <![CDATA[ ]]>
+          </note>
+          <series_works_count>7</series_works_count>
+          <primary_work_count>5</primary_work_count>
+          <numbered>true</numbered>
+        </series>
+      </series_work>
+    </series_works>
+    <similar_books>
+      <book>
+        <id>41667</id>
+        <title>
+          <![CDATA[ My Side of the Mountain (Mountain, #1) ]]>
+        </title>
+        <isbn>0142401110</isbn>
+        <isbn13>9780142401118</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.98</average_rating>
+        <ratings_count>29193</ratings_count>
+        <authors>
+          <author>
+            <id>23509</id>
+            <name>Jean Craighead George</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>530748</id>
+        <title>
+          <![CDATA[
+          Essential Manners for Men: What to Do, When to Do It, and Why
+          ]]>
+        </title>
+        <isbn>0060539801</isbn>
+        <isbn13>9780060539801</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.59</average_rating>
+        <ratings_count>244</ratings_count>
+        <authors>
+          <author>
+            <id>105457</id>
+            <name>Peter Post</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>438131</id>
+        <title>Incident at Hawk's Hill</title>
+        <isbn>0316209481</isbn>
+        <isbn13>9780316209489</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.97</average_rating>
+        <ratings_count>1065</ratings_count>
+        <authors>
+          <author>
+            <id>59419</id>
+            <name>Allan W. Eckert</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>18553</id>
+        <title>The Cay (The Cay, #1)</title>
+        <isbn>044022912X</isbn>
+        <isbn13>9780440229124</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.69</average_rating>
+        <ratings_count>15541</ratings_count>
+        <authors>
+          <author>
+            <id>11164</id>
+            <name>Theodore Taylor</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>10372</id>
+        <title>Summer of the Monkeys</title>
+        <isbn>0440415802</isbn>
+        <isbn13>9780440415800</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.98</average_rating>
+        <ratings_count>5899</ratings_count>
+        <authors>
+          <author>
+            <id>6810</id>
+            <name>Wilson Rawls</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>817982</id>
+        <title>Stone Fox</title>
+        <isbn>0064401324</isbn>
+        <isbn13>9780064401326</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1348701872s/817982.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1348701872m/817982.jpg
+          ]]>
+        </image_url>
+        <average_rating>4.00</average_rating>
+        <ratings_count>5385</ratings_count>
+        <authors>
+          <author>
+            <id>75867</id>
+            <name>John Reynolds Gardiner</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>278264</id>
+        <title>Wringer</title>
+        <isbn>0060739487</isbn>
+        <isbn13>9780060739485</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.59</average_rating>
+        <ratings_count>6773</ratings_count>
+        <authors>
+          <author>
+            <id>12696</id>
+            <name>Jerry Spinelli</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>207569</id>
+        <title>The Sign of the Beaver</title>
+        <isbn>0440779030</isbn>
+        <isbn13>9780440779032</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1362166273s/207569.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1362166273m/207569.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.69</average_rating>
+        <ratings_count>13749</ratings_count>
+        <authors>
+          <author>
+            <id>7549</id>
+            <name>Elizabeth George Speare</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>444330</id>
+        <title>Kneeknock Rise</title>
+        <isbn>0374442606</isbn>
+        <isbn13>9780374442606</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1312048002s/444330.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1312048002m/444330.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.57</average_rating>
+        <ratings_count>711</ratings_count>
+        <authors>
+          <author>
+            <id>1954</id>
+            <name>Natalie Babbitt</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>857528</id>
+        <title>Call It Courage</title>
+        <isbn>0689713916</isbn>
+        <isbn13>9780689713910</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1344390570s/857528.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1344390570m/857528.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.65</average_rating>
+        <ratings_count>5136</ratings_count>
+        <authors>
+          <author>
+            <id>37836</id>
+            <name>Armstrong Sperry</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>572243</id>
+        <title>Strenuous Life</title>
+        <isbn>1557091420</isbn>
+        <isbn13>9781557091420</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1328756745s/572243.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1328756745m/572243.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.92</average_rating>
+        <ratings_count>196</ratings_count>
+        <authors>
+          <author>
+            <id>44567</id>
+            <name>Theodore Roosevelt</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>39980</id>
+        <title>
+          <![CDATA[ A Year Down Yonder (A Long Way from Chicago, #2) ]]>
+        </title>
+        <isbn>0142300705</isbn>
+        <isbn13>9780142300701</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>4.08</average_rating>
+        <ratings_count>15640</ratings_count>
+        <authors>
+          <author>
+            <id>22414</id>
+            <name>Richard Peck</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>913719</id>
+        <title>
+          <![CDATA[ The Book of Deeds of Arms and of Chivalry ]]>
+        </title>
+        <isbn>027101881X</isbn>
+        <isbn13>9780271018812</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1369161706s/913719.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1369161706m/913719.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.57</average_rating>
+        <ratings_count>197</ratings_count>
+        <authors>
+          <author>
+            <id>51133</id>
+            <name>Christine de Pizan</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>826885</id>
+        <title>American Boys Handy Book</title>
+        <isbn>0879234490</isbn>
+        <isbn13>9780879234492</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>4.07</average_rating>
+        <ratings_count>356</ratings_count>
+        <authors>
+          <author>
+            <id>1527190</id>
+            <name>Daniel Carter Beard</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>279626</id>
+        <title>Graven Images</title>
+        <isbn>0763627755</isbn>
+        <isbn13>9780763627751</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1320485024s/279626.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1320485024m/279626.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.52</average_rating>
+        <ratings_count>191</ratings_count>
+        <authors>
+          <author>
+            <id>67810</id>
+            <name>Paul Fleischman</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>849993</id>
+        <title>Belle Prater's Boy</title>
+        <isbn>0440413729</isbn>
+        <isbn13>9780440413721</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1320404176s/849993.jpg
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://d.gr-assets.com/books/1320404176m/849993.jpg
+          ]]>
+        </image_url>
+        <average_rating>3.91</average_rating>
+        <ratings_count>2778</ratings_count>
+        <authors>
+          <author>
+            <id>8923</id>
+            <name>Ruth White</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>808470</id>
+        <title>Far North</title>
+        <isbn>0060540966</isbn>
+        <isbn13>9780060540968</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.88</average_rating>
+        <ratings_count>707</ratings_count>
+        <authors>
+          <author>
+            <id>44589</id>
+            <name>Will Hobbs</name>
+          </author>
+        </authors>
+      </book>
+      <book>
+        <id>409184</id>
+        <title>
+          <![CDATA[ Our Only May Amelia (May Amelia, #1) ]]>
+        </title>
+        <isbn>0064408566</isbn>
+        <isbn13>9780064408561</isbn13>
+        <small_image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png
+          ]]>
+        </small_image_url>
+        <image_url>
+          <![CDATA[
+          https://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png
+          ]]>
+        </image_url>
+        <average_rating>3.79</average_rating>
+        <ratings_count>4110</ratings_count>
+        <authors>
+          <author>
+            <id>137561</id>
+            <name>Jennifer L. Holm</name>
+          </author>
+        </authors>
+      </book>
+    </similar_books>
+  </book>
+</GoodreadsResponse>

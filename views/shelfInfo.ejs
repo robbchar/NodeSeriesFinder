@@ -1,0 +1,7 @@
+Shelf name:  <%= name %><br />
+Books:
+<ul>
+<% for(var i=0, numBooks = response.books[0].book.length; i < numBooks; i++) {%>
+   <li><a href="/bookInfo?bookId=<%= response.books[0].book[i].id[0]._ %>"><%= response.books[0].book[i].title[0] %></a></li>
+<% } %>
+</ul>

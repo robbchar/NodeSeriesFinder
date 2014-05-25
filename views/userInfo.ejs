@@ -1,0 +1,8 @@
+Username <%= response.user[0].name[0] %>
+<img src="<%= response.user[0].image_url[0] %>"/>
+Shelves:
+<ul>
+<% for(var i=0, numShelves = response.user[0].user_shelves[0].user_shelf.length; i < numShelves; i++) {%>
+   <li><a href="/shelfInfo?shelfId=<%= response.user[0].user_shelves[0].user_shelf[i].id[0]._ %>"><%= response.user[0].user_shelves[0].user_shelf[i].name %></a></li>
+<% } %>
+</ul>

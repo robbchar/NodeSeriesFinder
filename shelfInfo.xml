@@ -1,0 +1,691 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[qWqSov4tZxgcRuMjoabsg]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <books start="1" end="20" total="227" numpages="12" currentpage="1">
+    <book>
+      <id type="integer">12266560</id>
+      <isbn>0307595951</isbn>
+      <isbn13>9780307595959</isbn13>
+      <text_reviews_count type="integer">652</text_reviews_count>
+      <title>Angelmaker</title>
+      <image_url>http://d.gr-assets.com/books/1326121401m/12266560.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1326121401s/12266560.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/12266560-angelmaker</link>
+      <num_pages>482</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Alfred A. Knopf</publisher>
+      <publication_day>20</publication_day>
+      <publication_year>2012</publication_year>
+      <publication_month>3</publication_month>
+      <average_rating>4.00</average_rating>
+      <ratings_count>3951</ratings_count>
+      <description>&lt;strong&gt;A &lt;em&gt;Wall Street Journal&lt;/em&gt; and &lt;em&gt;Booklist&lt;/em&gt; Best Mystery of 2012 &lt;br&gt;&lt;/strong&gt;&lt;br&gt;From the acclaimed author of &lt;em&gt;The Gone-Away World,&lt;/em&gt; blistering gangster noir meets howling absurdist comedy as the forces of good square off against the forces of evil, and only an unassuming clockwork repairman and an octogenarian former superspy can save the world from total destruction.&lt;br&gt; &lt;br&gt;Joe Spork spends his days fixing antique clocks. The son of infamous London criminal Mathew “Tommy Gun” Spork, he has turned his back on his family’s mobster history and aims to live a quiet life. That orderly existence is suddenly upended when Joe activates a particularly unusual clockwork mechanism. His client, Edie Banister, is more than the kindly old lady she appears to be—she’s a retired international secret agent. And the device? It’s a 1950s doomsday machine. Having triggered it, Joe now faces the wrath of both the British government and a diabolical South Asian dictator who is also Edie’s old arch-nemesis. On the upside, Joe’s got a girl: a bold receptionist named Polly whose smarts, savvy and sex appeal may be just what he needs. With Joe’s once-quiet world suddenly overrun by mad monks, psychopathic serial killers, scientific geniuses and threats to the future of conscious life in the universe, he realizes that the only way to survive is to muster the courage to fight, help Edie complete a mission she abandoned years ago and pick up his father’s old gun . . .</description>
+      <authors>
+        <author>
+          <id>1100593</id>
+          <name>Nick Harkaway</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1251220475p5/1100593.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1251220475p2/1100593.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/1100593.Nick_Harkaway]]></link>
+          <average_rating>4.08</average_rating>
+          <ratings_count>9326</ratings_count>
+          <text_reviews_count>1922</text_reviews_count>
+        </author>
+      </authors>
+      <published>2012</published>
+    </book>
+
+    <book>
+      <id type="integer">10964</id>
+      <isbn>0440242940</isbn>
+      <isbn13>9780440242949</isbn13>
+      <text_reviews_count type="integer">15046</text_reviews_count>
+      <title>Outlander (Outlander, #1)</title>
+      <image_url>http://d.gr-assets.com/books/1377720296m/10964.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1377720296s/10964.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/10964.Outlander</link>
+      <num_pages>870</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Dell Publishing Company</publisher>
+      <publication_day>26</publication_day>
+      <publication_year>2005</publication_year>
+      <publication_month>7</publication_month>
+      <average_rating>4.13</average_rating>
+      <ratings_count>259405</ratings_count>
+      <description>The year is 1945. Claire Randall, a former combat nurse, is back from the war and reunited with her husband on a second honeymoon--when she walks through a standing stone in one of the ancient stone circles that dot the British Isles.  Suddenly she is a Sassenach--an "outlander"--in a Scotland torn by war and raiding Highland clans in the year of Our Lord...1743.&lt;br&gt;&lt;br&gt;Hurled back in time by forces she cannot understand, Claire is catapulted into intrigues and dangers that may threaten her life...and shatter her heart.  For here she meets James Fraser, a gallant young Scots warrior, and becomes a woman torn between fidelity and desire...and between two vastly different men in two irreconcilable lives.</description>
+      <authors>
+        <author>
+          <id>3617</id>
+          <name>Diana Gabaldon</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1213918339p5/3617.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1213918339p2/3617.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/3617.Diana_Gabaldon]]></link>
+          <average_rating>4.20</average_rating>
+          <ratings_count>739915</ratings_count>
+          <text_reviews_count>43045</text_reviews_count>
+        </author>
+      </authors>
+      <published>2005</published>
+    </book>
+
+    <book>
+      <id type="integer">26999</id>
+      <isbn>014303541X</isbn>
+      <isbn13>9780143035411</isbn13>
+      <text_reviews_count type="integer">745</text_reviews_count>
+      <title>Something Rotten (Thursday Next, #4)</title>
+      <image_url>http://d.gr-assets.com/books/1270782422m/26999.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1270782422s/26999.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/26999.Something_Rotten</link>
+      <num_pages>385</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Penguin Books</publisher>
+      <publication_day>26</publication_day>
+      <publication_year>2005</publication_year>
+      <publication_month>7</publication_month>
+      <average_rating>4.12</average_rating>
+      <ratings_count>19632</ratings_count>
+      <description>Detective Thursday Next has had her fill of her responsibilities in her new position at Jurisfiction, enough with Emperor Zhark's pointlessly dramatic entrances, outbreaks of slapstick raging across pulp genres, and hacking her hair off to fill in for Joan of Arc. Packing up her child, Thursday returns to Swindon accompanied by none other than the dithering Danish prince Hamlet. Caring for both is more than a full-time job, and Thursday decides it's definitely time to get back her husband, Landen, if only to babysit. Luckily, those responsible for Landen's eradication, the operatives of the Goliath Corporation - formerly an oppressive multinational conglomerate, now an oppressive multinational religion - have pledged to right the wrong." But returning to SpecOps isn't a snap. Problems arise instantly. When outlaw fictioneer Yorrick Kaine seeks to get himself elected dictator, he whips up a frenzy of anti-Danish sentiment and demands mass book burnings. The return of Swindon's patron saint bearing divine prophecies could spell the end of the world within five years, possibly sooner if the laughably terrible Swindon Mallets don't win the Superhoop, the most important croquet tournament in the land. And if that's not bad enough, The Merry Wives of Windsor is becoming entangled with Hamlet. Can Thursday find a Shakespeare clone to stop this hostile takeover? Can she prevent the world from plunging into war? Can she vanquish Kaine before he realizes his dream of absolute power? And, most important, will she ever find reliable child care?</description>
+      <authors>
+        <author>
+          <id>4432</id>
+          <name>Jasper Fforde</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1350497674p5/4432.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1350497674p2/4432.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/4432.Jasper_Fforde]]></link>
+          <average_rating>4.00</average_rating>
+          <ratings_count>231727</ratings_count>
+          <text_reviews_count>20578</text_reviews_count>
+        </author>
+      </authors>
+      <published>2005</published>
+    </book>
+
+    <book>
+      <id type="integer">29579</id>
+      <isbn>0553803719</isbn>
+      <isbn13>9780553803716</isbn13>
+      <text_reviews_count type="integer">2745</text_reviews_count>
+      <title>Foundation (Foundation, #1)</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/29579.Foundation</link>
+      <num_pages>256</num_pages>
+      <format>Hardcover</format>
+      <edition_information/>
+      <publisher>Spectra Books</publisher>
+      <publication_day>1</publication_day>
+      <publication_year>2004</publication_year>
+      <publication_month>6</publication_month>
+      <average_rating>4.03</average_rating>
+      <ratings_count>187549</ratings_count>
+      <description>For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future--to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire--both scientists and scholars--and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a fututre generations. He calls his sanctuary the Foundation.&lt;br&gt;&lt;br&gt;But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun--or fight them and be destroyed.</description>
+      <authors>
+        <author>
+          <id>16667</id>
+          <name>Isaac Asimov</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1341965730p5/16667.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1341965730p2/16667.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+          <average_rating>4.07</average_rating>
+          <ratings_count>887669</ratings_count>
+          <text_reviews_count>19667</text_reviews_count>
+        </author>
+      </authors>
+      <published>2004</published>
+    </book>
+
+    <book>
+      <id type="integer">18512</id>
+      <isbn>0345339738</isbn>
+      <isbn13>9780345339737</isbn13>
+      <text_reviews_count type="integer">2845</text_reviews_count>
+      <title>The Return of the King (The Lord of the Rings, #3)</title>
+      <image_url>http://d.gr-assets.com/books/1389977161m/18512.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1389977161s/18512.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/18512.The_Return_of_the_King</link>
+      <num_pages>490</num_pages>
+      <format>Mass Market Paperback</format>
+      <edition_information/>
+      <publisher>Del Rey</publisher>
+      <publication_day>12</publication_day>
+      <publication_year>1986</publication_year>
+      <publication_month>7</publication_month>
+      <average_rating>4.48</average_rating>
+      <ratings_count>324958</ratings_count>
+      <description>Concluding the story begun in The Hobbit, this is the final part of Tolkien's epic masterpiece, The Lord of the Rings.&lt;br&gt;&lt;br&gt;The armies of the Dark Lord are massing as his evil shadow spreads ever wider. Men, Dwarves, Elves and Ents unite forces to do battle agains the Dark. Meanwhile, Frodo and Sam struggle further into Mordor in their heroic quest to destroy the One Ring.&lt;br&gt;&lt;br&gt;Impossible to describe in a few words, JRR Tolkien's great work of imaginative fiction has been labelled both a heroic romance and a classic fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world which is totally convincing in its detail. Tolkien created a vast new mythology in an invented world which has proved timeless in its appeal.</description>
+      <authors>
+        <author>
+          <id>656983</id>
+          <name>J.R.R. Tolkien</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p5/656983.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p2/656983.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+          <average_rating>4.27</average_rating>
+          <ratings_count>3865214</ratings_count>
+          <text_reviews_count>61058</text_reviews_count>
+        </author>
+      </authors>
+      <published>1986</published>
+    </book>
+
+    <book>
+      <id type="integer">34</id>
+      <isbn>0618346252</isbn>
+      <isbn13>9780618346257</isbn13>
+      <text_reviews_count type="integer">7049</text_reviews_count>
+      <title>The Fellowship of the Ring (The Lord of the Rings, #1)</title>
+      <image_url>http://d.gr-assets.com/books/1298411339m/34.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1298411339s/34.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring</link>
+      <num_pages>398</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Houghton Mifflin Harcourt</publisher>
+      <publication_day>5</publication_day>
+      <publication_year>2003</publication_year>
+      <publication_month>9</publication_month>
+      <average_rating>4.29</average_rating>
+      <ratings_count>1072991</ratings_count>
+      <description>Frodo Baggins knew the Ringwraiths were searching for him - and the Ring of Power he bore that would enable Sauron to destroy all that was good in Middle-earth. Now it was up to Frodo and his faithful servant Sam to carry the Ring to where it could be detroyed - in the very center of Sauron's dark kingdom.</description>
+      <authors>
+        <author>
+          <id>656983</id>
+          <name>J.R.R. Tolkien</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p5/656983.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p2/656983.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+          <average_rating>4.27</average_rating>
+          <ratings_count>3865214</ratings_count>
+          <text_reviews_count>61058</text_reviews_count>
+        </author>
+      </authors>
+      <published>2003</published>
+    </book>
+
+    <book>
+      <id type="integer">15241</id>
+      <isbn>0618346260</isbn>
+      <isbn13>9780618346264</isbn13>
+      <text_reviews_count type="integer">2860</text_reviews_count>
+      <title>The Two Towers (The Lord of the Rings, #2)</title>
+      <image_url>http://d.gr-assets.com/books/1298415523m/15241.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1298415523s/15241.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/15241.The_Two_Towers</link>
+      <num_pages>322</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Mariner Books</publisher>
+      <publication_day>5</publication_day>
+      <publication_year>2003</publication_year>
+      <publication_month>9</publication_month>
+      <average_rating>4.38</average_rating>
+      <ratings_count>334256</ratings_count>
+      <description>The Fellowship was scattered. Some were bracing hopelessly for war against the ancient evil of Sauron. Some were contending with the treachery of the wizard Saruman. Only Frodo and Sam were left to take the accursed Ring of Power to be destroyed in Mordor–the dark Kingdom where Sauron was supreme. Their guide was Gollum, deceitful and lust-filled, slave to the corruption of the Ring. Thus continues the magnificent, bestselling tale of adventure begun in The Fellowship of the Ring, which reaches its soul-stirring climax in The Return of the King.</description>
+      <authors>
+        <author>
+          <id>656983</id>
+          <name>J.R.R. Tolkien</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p5/656983.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1383526938p2/656983.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+          <average_rating>4.27</average_rating>
+          <ratings_count>3865214</ratings_count>
+          <text_reviews_count>61058</text_reviews_count>
+        </author>
+      </authors>
+      <published>2003</published>
+    </book>
+
+    <book>
+      <id type="integer">4987</id>
+      <isbn>0385333900</isbn>
+      <isbn13>9780385333900</isbn13>
+      <text_reviews_count type="integer">304</text_reviews_count>
+      <title>Jailbird</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/4987.Jailbird</link>
+      <num_pages></num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.78</average_rating>
+      <ratings_count>11949</ratings_count>
+      <description></description>
+      <authors>
+        <author>
+          <id>2778055</id>
+          <name>Kurt Vonnegut</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1357661500p5/2778055.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1357661500p2/2778055.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
+          <average_rating>4.01</average_rating>
+          <ratings_count>1296243</ratings_count>
+          <text_reviews_count>36989</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+    </book>
+
+    <book>
+      <id type="integer">1330809</id>
+      <isbn>0345029046</isbn>
+      <isbn13>9780345029041</isbn13>
+      <text_reviews_count type="integer">6</text_reviews_count>
+      <title>Alph</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/1330809.Alph</link>
+      <num_pages></num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>2.89</average_rating>
+      <ratings_count>63</ratings_count>
+      <description>World Without Men (1958) (Revised in 1972 with Variant Title: Alph)&lt;br&gt; In a future society where only female children are born, the birth of a male child promises to create scientific and socio-political chaos, so they determine to destroy the child, until one woman steals him and vows to care for him in defiance of a ruthless totalitarian authority.</description>
+      <authors>
+        <author>
+          <id>634860</id>
+          <name>Charles Eric Maine</name>
+          <image_url><![CDATA[http://s.gr-assets.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+          <small_image_url><![CDATA[http://s.gr-assets.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/634860.Charles_Eric_Maine]]></link>
+          <average_rating>3.06</average_rating>
+          <ratings_count>182</ratings_count>
+          <text_reviews_count>25</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+    </book>
+
+    <book>
+      <id type="integer">20252</id>
+      <isbn>0553580337</isbn>
+      <isbn13>9780553580334</isbn13>
+      <text_reviews_count type="integer">100</text_reviews_count>
+      <title>House Corrino (Prelude to Dune, #3)</title>
+      <image_url>http://d.gr-assets.com/books/1298689043m/20252.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1298689043s/20252.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/20252.House_Corrino</link>
+      <num_pages>672</num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.57</average_rating>
+      <ratings_count>8443</ratings_count>
+      <description>&lt;strong&gt;The triumphant conclusion to the blockbuster trilogy that made science fiction history!&lt;br&gt;&lt;/strong&gt;&lt;br&gt;In &lt;strong&gt;Dune: House Corrino&lt;/strong&gt; Brian Herbert and Kevin J. Anderson bring us the magnificent final chapter in the unforgettable saga begun in &lt;strong&gt;Dune: House Atreides&lt;/strong&gt; and continued in &lt;strong&gt;Dune: House Harkonnen&lt;/strong&gt;. &lt;br&gt;&lt;br&gt;Here nobles and commoners, soldiers and slaves, wives and courtesans shape the amazing destiny of a tumultuous universe. An epic saga of love and war, crime and politics, religion and revolution, this magnificent novel is a fitting conclusion to a great science fiction trilogy ... and an invaluable addition to the thrilling world of Frank Herbert’s immortal &lt;strong&gt;Dune&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Dune: House Corrino&lt;br&gt;&lt;/strong&gt;&lt;br&gt;Fearful of losing his precarious hold on the Golden Lion Throne, Shaddam IV, Emperor of a Million Worlds, has devised a radical scheme to develop an alternative to melange, the addictive spice that binds the Imperium together and that can be found only on the desert world of Dune. &lt;br&gt;&lt;br&gt;In subterranean labs on the machine planet Ix, cruel Tleilaxu overlords use slaves and prisoners as part of a horrific plan to manufacture a synthetic form of melange known as amal. If amal can supplant the spice from Dune, it will give Shaddam what he seeks: absolute power.&lt;br&gt;&lt;br&gt;But Duke Leto Atreides, grief-stricken yet unbowed by the tragic death of his son Victor, determined to restore the honor and prestige of his House, has his own plans for Ix. &lt;br&gt;&lt;br&gt;He will free the Ixians from their oppressive conquerors and restore his friend Prince Rhombur, injured scion of the disgraced House Vernius, to his rightful place as Ixian ruler. It is a bold and risky venture, for House Atreides has limited military resources and many ruthless enemies, including the sadistic Baron Harkonnen, despotic master of Dune. &lt;br&gt;&lt;br&gt;Meanwhile, Duke Leto’s consort, the beautiful Lady Jessica, obeying the orders of her superiors in the Bene Gesserit Sisterhood, has conceived a child that the Sisterhood intends to be the penultimate step in the creation of an all-powerful being. Yet what the Sisterhood doesn’t know is that the child Jessica is carrying is not the girl they are expecting, but a boy. &lt;br&gt;&lt;br&gt;Jessica’s act of disobedience is an act of love — her attempt to provide her Duke with a male heir to House Atreides — but an act that, when discovered, could kill both mother and baby. &lt;br&gt;&lt;br&gt;Like the Bene Gesserit, Shaddam Corrino is also concerned with making a plan for the future — securing his legacy. Blinded by his need for power, the Emperor will launch a plot against Dune, the only natural source of true spice. If he succeeds, his madness will result in a cataclysmic tragedy not even he foresees: the end of space travel, the Imperium, and civilization itself.&lt;br&gt;&lt;br&gt;With Duke Leto and other renegades and revolutionaries fighting to stem the tide of darkness that threatens to engulf their universe, the stage is set for a showdown unlike any seen before.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;</description>
+      <authors>
+        <author>
+          <id>56</id>
+          <name>Brian Herbert</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1223868001p5/56.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1223868001p2/56.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/56.Brian_Herbert]]></link>
+          <average_rating>3.60</average_rating>
+          <ratings_count>85479</ratings_count>
+          <text_reviews_count>2368</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+    </book>
+
+    <book>
+      <id type="integer">7670</id>
+      <isbn>0060541814</isbn>
+      <isbn13>9780060541811</isbn13>
+      <text_reviews_count type="integer">1313</text_reviews_count>
+      <title>The Andromeda Strain</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/7670.The_Andromeda_Strain</link>
+      <num_pages>327</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Avon Books</publisher>
+      <publication_day>28</publication_day>
+      <publication_year>2003</publication_year>
+      <publication_month>10</publication_month>
+      <average_rating>3.80</average_rating>
+      <ratings_count>115635</ratings_count>
+      <description>The United States government is given a warning by the pre-eminent biophysicists in the country: current sterilization procedures applied to returning space probes may be inadequate to guarantee uncontaminated re-entry to the atmosphere. Two years later, seventeen satellites are sent into the outer fringes of space to collect organisms and dust for study. One of them falls to earth, landing in a desolate area of Arizona. Twelve miles from the landing site, in the town of Piedmont, a shocking discovery is made: the streets are littered with the dead bodies of the town's inhabitants, as if they dropped dead in their tracks.</description>
+      <authors>
+        <author>
+          <id>5194</id>
+          <name>Michael Crichton</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1359042651p5/5194.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1359042651p2/5194.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/5194.Michael_Crichton]]></link>
+          <average_rating>3.70</average_rating>
+          <ratings_count>1307712</ratings_count>
+          <text_reviews_count>28192</text_reviews_count>
+        </author>
+      </authors>
+      <published>2003</published>
+    </book>
+
+    <book>
+      <id type="integer">5107</id>
+      <isbn>0316769177</isbn>
+      <isbn13>9780316769174</isbn13>
+      <text_reviews_count type="integer">25505</text_reviews_count>
+      <title>The Catcher in the Rye</title>
+      <image_url>http://d.gr-assets.com/books/1398034300m/5107.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1398034300s/5107.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
+      <num_pages>277</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Back Bay Books</publisher>
+      <publication_day>30</publication_day>
+      <publication_year>2001</publication_year>
+      <publication_month>1</publication_month>
+      <average_rating>3.77</average_rating>
+      <ratings_count>1422881</ratings_count>
+      <description>Since his debut in 1951 as The Catcher in the Rye, Holden Caulfield has been synonymous with "cynical adolescent." Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school, in a slang that sounds edgy even today and keeps this novel on banned book lists. It begins,&lt;br&gt;"If you really want to hear about it, the first thing you'll probably want to know is where I was born and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth. In the first place, that stuff bores me, and in the second place, my parents would have about two hemorrhages apiece if I told anything pretty personal about them."&lt;br&gt;&lt;br&gt;His constant wry observations about what he encounters, from teachers to phonies (the two of course are not mutually exclusive) capture the essence of the eternal teenage experience of alienation.</description>
+      <authors>
+        <author>
+          <id>819789</id>
+          <name>J.D. Salinger</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1288777679p5/819789.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1288777679p2/819789.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+          <average_rating>3.81</average_rating>
+          <ratings_count>1640735</ratings_count>
+          <text_reviews_count>36926</text_reviews_count>
+        </author>
+      </authors>
+      <published>2001</published>
+    </book>
+
+    <book>
+      <id type="integer">18423</id>
+      <isbn>0441007317</isbn>
+      <isbn13>9780441007318</isbn13>
+      <text_reviews_count type="integer">1744</text_reviews_count>
+      <title>The Left Hand of Darkness (Hainish Cycle, #4)</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness</link>
+      <num_pages>304</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Ace</publisher>
+      <publication_day>1</publication_day>
+      <publication_year>2000</publication_year>
+      <publication_month>7</publication_month>
+      <average_rating>4.01</average_rating>
+      <ratings_count>37142</ratings_count>
+      <description>A groundbreaking work of science fiction, &lt;em&gt;The Left Hand of Darkness&lt;/em&gt; tells the story of a lone human emissary to Winter, an alien world whose inhabitants can choose -and change - their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters. &lt;br&gt;&lt;br&gt;Embracing the aspects of psychology, society, and human emotion on an alien world, &lt;em&gt;The Left Hand of Darkness&lt;/em&gt; stands as a landmark achievement in the annals of intellectual science fiction.</description>
+      <authors>
+        <author>
+          <id>874602</id>
+          <name>Ursula K. Le Guin</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1244291425p5/874602.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1244291425p2/874602.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+          <average_rating>4.00</average_rating>
+          <ratings_count>393869</ratings_count>
+          <text_reviews_count>17426</text_reviews_count>
+        </author>
+      </authors>
+      <published>2000</published>
+    </book>
+
+    <book>
+      <id type="integer">900188</id>
+      <isbn>0872167461</isbn>
+      <isbn13>9780872167469</isbn13>
+      <text_reviews_count type="integer">0</text_reviews_count>
+      <title>Alien</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/900188.Alien</link>
+      <num_pages></num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher>Playboy Enterprises, Inc</publisher>
+      <publication_day/>
+      <publication_year/>
+      <publication_month/>
+      <average_rating>1.00</average_rating>
+      <ratings_count>1</ratings_count>
+      <description></description>
+      <authors>
+        <author>
+          <id>461492</id>
+          <name>George H. Leonard</name>
+          <image_url><![CDATA[http://s.gr-assets.com/assets/nophoto/user/m_200x266-e1021c586c5c6da845174faa816a3406.png]]></image_url>
+          <small_image_url><![CDATA[http://s.gr-assets.com/assets/nophoto/user/m_50x66-e89fc14c32a41c0eb4298dfafe929b65.png]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/461492.George_H_Leonard]]></link>
+          <average_rating>3.20</average_rating>
+          <ratings_count>5</ratings_count>
+          <text_reviews_count>2</text_reviews_count>
+        </author>
+      </authors>
+      <published/>
+    </book>
+
+    <book>
+      <id type="integer">4671</id>
+      <isbn>0743273567</isbn>
+      <isbn13>9780743273565</isbn13>
+      <text_reviews_count type="integer">30675</text_reviews_count>
+      <title>The Great Gatsby</title>
+      <image_url>http://d.gr-assets.com/books/1361191055m/4671.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1361191055s/4671.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/4671.The_Great_Gatsby</link>
+      <num_pages>280</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Scribner</publisher>
+      <publication_day>30</publication_day>
+      <publication_year>2004</publication_year>
+      <publication_month>9</publication_month>
+      <average_rating>3.83</average_rating>
+      <ratings_count>1617568</ratings_count>
+      <description>In 1922, F. Scott Fitzgerald announced his decision to write "something &lt;em&gt;new&lt;/em&gt;--something extraordinary and beautiful and simple and intricately patterned." That extraordinary, beautiful, intricately patterned, and above all, simple novel became &lt;em&gt;The Great Gatsby&lt;/em&gt;, arguably Fitzgerald's finest work and certainly the book for which he is best known. A portrait of the Jazz Age in all of its decadence and excess, &lt;em&gt;Gatsby&lt;/em&gt; captured the spirit of the author's generation and earned itself a permanent place in American mythology. Self-made, self-invented millionaire Jay Gatsby embodies some of Fitzgerald's--and his country's--most abiding obsessions: money, ambition, greed, and the promise of new beginnings.  "Gatsby believed in the green light, the orgiastic future that year by year recedes before us. It eluded us then, but that's no matter--tomorrow we will run faster, stretch out our arms farther.... And one fine morning--"  Gatsby's rise to glory and eventual fall from grace becomes a kind of cautionary tale about the American Dream.&lt;br&gt;&lt;br&gt;It's also a love story, of sorts, the narrative of Gatsby's quixotic passion for Daisy Buchanan. The pair meet five years before the novel begins, when Daisy is a legendary young Louisville beauty and Gatsby an impoverished officer. They fall in love, but while Gatsby serves overseas, Daisy marries the brutal, bullying, but extremely rich Tom Buchanan. After the war, Gatsby devotes himself blindly to the pursuit of wealth by whatever means--and to the pursuit of Daisy, which amounts to the same thing. "Her voice is full of money," Gatsby says admiringly, in one of the novel's more famous descriptions. His millions made, Gatsby buys a mansion across Long Island Sound from Daisy's patrician East Egg address, throws lavish parties, and waits for her to appear. When she does, events unfold with all the tragic inevitability of a Greek drama, with detached, cynical neighbor Nick Carraway acting as chorus throughout. Spare, elegantly plotted, and written in crystalline prose, &lt;em&gt;The Great Gatsby&lt;/em&gt; is as perfectly satisfying as the best kind of poem.</description>
+      <authors>
+        <author>
+          <id>3190</id>
+          <name>F. Scott Fitzgerald</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1374726364p5/3190.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1374726364p2/3190.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
+          <average_rating>3.82</average_rating>
+          <ratings_count>1771265</ratings_count>
+          <text_reviews_count>46325</text_reviews_count>
+        </author>
+      </authors>
+      <published>2004</published>
+    </book>
+
+    <book>
+      <id type="integer">20326290</id>
+      <isbn nil="true"/>
+      <isbn13 nil="true"/>
+      <text_reviews_count type="integer">21</text_reviews_count>
+      <title>Speaker for the Dead</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/20326290-speaker-for-the-dead</link>
+      <num_pages></num_pages>
+      <format></format>
+      <edition_information/>
+      <publisher></publisher>
+      <publication_day></publication_day>
+      <publication_year></publication_year>
+      <publication_month></publication_month>
+      <average_rating>3.99</average_rating>
+      <ratings_count>115230</ratings_count>
+      <description>Easton Press leather bound book is part of the Masterpieces of Science Fiction. All the original text is preserved and enhanced by illustrations.</description>
+      <authors>
+        <author>
+          <id>589</id>
+          <name>Orson Scott Card</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1294099952p5/589.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1294099952p2/589.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+          <average_rating>4.04</average_rating>
+          <ratings_count>1382692</ratings_count>
+          <text_reviews_count>66807</text_reviews_count>
+        </author>
+      </authors>
+      <published></published>
+    </book>
+
+    <book>
+      <id type="integer">53727</id>
+      <isbn>0765342502</isbn>
+      <isbn13>9780765342508</isbn13>
+      <text_reviews_count type="integer">43</text_reviews_count>
+      <title>The Green Brain</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/53727.The_Green_Brain</link>
+      <num_pages>224</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Tor Books</publisher>
+      <publication_day>16</publication_day>
+      <publication_year>2002</publication_year>
+      <publication_month>9</publication_month>
+      <average_rating>3.30</average_rating>
+      <ratings_count>1028</ratings_count>
+      <description>In an overpopulated world seeking living room in the jungles, the International Ecological Organization was systematically exterminating the voracious insects which made these areas uninhabitable. Using deadly foamal bombs and newly developed vibration weapons, men like Joao Martinho and his co-workers fought to clear the green hell of the Mato Grosso.&lt;br&gt;&lt;br&gt;But somehow those areas which had been completely cleared were becoming reinfested, despite the impenetrable vibration barriers. And tales came out of the jungles . . . of insects mutated to incredible sizes . . . of creatures who seemed to be men, but whose eyes gleamed with the chitinous sheen of insects. . . .&lt;br&gt;&lt;br&gt;A fascinating examination of the fragile balance between consciousness, man and insect from one of the best-loved science fiction creators of all time.&lt;br&gt;</description>
+      <authors>
+        <author>
+          <id>58</id>
+          <name>Frank Herbert</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1168661521p5/58.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1168661521p2/58.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+          <average_rating>4.00</average_rating>
+          <ratings_count>601195</ratings_count>
+          <text_reviews_count>12498</text_reviews_count>
+        </author>
+      </authors>
+      <published>2002</published>
+    </book>
+
+    <book>
+      <id type="integer">5094</id>
+      <isbn>0451210859</isbn>
+      <isbn13>9780451210852</isbn13>
+      <text_reviews_count type="integer">2068</text_reviews_count>
+      <title>The Drawing of the Three (The Dark Tower, #2)</title>
+      <image_url>http://d.gr-assets.com/books/1370918050m/5094.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1370918050s/5094.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/5094.The_Drawing_of_the_Three</link>
+      <num_pages>463</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Signet</publisher>
+      <publication_day>5</publication_day>
+      <publication_year>2003</publication_year>
+      <publication_month>8</publication_month>
+      <average_rating>4.19</average_rating>
+      <ratings_count>91496</ratings_count>
+      <description>After his confrontation with the man in black at the end of &lt;strong&gt;The Gunslinger&lt;/strong&gt;, Roland awakes to find three doors on the beach of Mid-World's Western Sea—each leading to New York City but at three different moments in time. Through these doors, Roland must "draw" three figures crucial to his quest for the Dark Tower. In 1987, he finds Eddie Dean, The Prisoner, a heroin addict. In 1964, he meets Odetta Holmes, the Lady of Shadows, a young African-American heiress who lost her lower legs in a subway accident and gained a second personality that rages within her. And in 1977, he encounters Jack mort, Death, a pusher responsible for cruelties beyond imagining. Has Roland found new companions to form the ka-tet of his quest? Or has he unleashed something else entirely?</description>
+      <authors>
+        <author>
+          <id>3389</id>
+          <name>Stephen King</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1362814142p5/3389.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1362814142p2/3389.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+          <average_rating>3.94</average_rating>
+          <ratings_count>5997379</ratings_count>
+          <text_reviews_count>183660</text_reviews_count>
+        </author>
+      </authors>
+      <published>2003</published>
+    </book>
+
+    <book>
+      <id type="integer">201882</id>
+      <isbn>0441669514</isbn>
+      <isbn13>9780441669516</isbn13>
+      <text_reviews_count type="integer">70</text_reviews_count>
+      <title>Planet of Exile (Hainish Cycle #2)</title>
+      <image_url>http://d.gr-assets.com/books/1334148719m/201882.jpg</image_url>
+      <small_image_url>http://d.gr-assets.com/books/1334148719s/201882.jpg</small_image_url>
+      <link>http://www.goodreads.com/book/show/201882.Planet_of_Exile</link>
+      <num_pages>126</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Ace Books</publisher>
+      <publication_day/>
+      <publication_year>1971</publication_year>
+      <publication_month>5</publication_month>
+      <average_rating>3.69</average_rating>
+      <ratings_count>1675</ratings_count>
+      <description>The Earth colony of Landin has been stranded on Werel for ten years--&amp;amp; ten of Werel's years are over 600 terrestrial years. The lonely &amp;amp; dwindling human settlement is beginning to feel the strain. Every winter--a season that lasts for 15 years--the Earthmen have neighbors: the humanoid hilfs, a nomadic people who only settle down for the cruel cold spell. The hilfs fear the Earthmen, whom they think of as witches &amp;amp; call the farborns. But hilfs &amp;amp; farborns have common enemies: the hordes of ravaging barbarians called gaals &amp;amp; eerie preying snow ghouls. Will they join forces or be annihilated?</description>
+      <authors>
+        <author>
+          <id>874602</id>
+          <name>Ursula K. Le Guin</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1244291425p5/874602.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1244291425p2/874602.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+          <average_rating>4.00</average_rating>
+          <ratings_count>393869</ratings_count>
+          <text_reviews_count>17426</text_reviews_count>
+        </author>
+      </authors>
+      <published>1971</published>
+    </book>
+
+    <book>
+      <id type="integer">11507</id>
+      <isbn>1400031044</isbn>
+      <isbn13>9781400031047</isbn13>
+      <text_reviews_count type="integer">1654</text_reviews_count>
+      <title>My Name Is Asher Lev</title>
+      <image_url>http://s.gr-assets.com/assets/nophoto/book/111x148-6204a98ba2aba2d1aa07b9bea87124f8.png</image_url>
+      <small_image_url>http://s.gr-assets.com/assets/nophoto/book/50x75-6121bf4c1f669098041843ec9650ca19.png</small_image_url>
+      <link>http://www.goodreads.com/book/show/11507.My_Name_Is_Asher_Lev</link>
+      <num_pages>369</num_pages>
+      <format>Paperback</format>
+      <edition_information/>
+      <publisher>Anchor</publisher>
+      <publication_day>11</publication_day>
+      <publication_year>2003</publication_year>
+      <publication_month>3</publication_month>
+      <average_rating>4.16</average_rating>
+      <ratings_count>22438</ratings_count>
+      <description>Asher Lev is a Ladover Hasid who keeps kosher, prays three times a day and believes in the Ribbono Shel Olom, the Master of the Universe. Asher Lev is an artist who is compulsively driven to render the world he sees and feels even when it leads him to blasphemy. In this stirring and often visionary novel, Chaim Potok traces Asher’s passage between these two identities, the one consecrated to God, the other subject only to the imagination.&lt;br&gt;&lt;br&gt;Asher Lev grows up in a cloistered Hasidic community in postwar Brooklyn, a world suffused by ritual and revolving around a charismatic Rebbe. But in time his gift threatens to estrange him from that world and the parents he adores. As it follows his struggle, &lt;strong&gt;My Name Is Asher Lev&lt;/strong&gt; becomes a luminous portrait of the artist, by turns heartbreaking and exultant, a modern classic.</description>
+      <authors>
+        <author>
+          <id>7385</id>
+          <name>Chaim Potok</name>
+          <image_url><![CDATA[http://d.gr-assets.com/authors/1237579790p5/7385.jpg]]></image_url>
+          <small_image_url><![CDATA[http://d.gr-assets.com/authors/1237579790p2/7385.jpg]]></small_image_url>
+          <link><![CDATA[http://www.goodreads.com/author/show/7385.Chaim_Potok]]></link>
+          <average_rating>4.04</average_rating>
+          <ratings_count>97254</ratings_count>
+          <text_reviews_count>5758</text_reviews_count>
+        </author>
+      </authors>
+      <published>2003</published>
+    </book>
+
+  </books>
+</GoodreadsResponse>

@@ -1,0 +1,18 @@
+{
+  "name": "nodeGoodReads",
+  "main": "goodreads.js",
+  "dependencies": {
+    "express": "*",
+    "morgan": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "querystring": "*",
+    "oauth": "*",
+    "util": "*",
+    "xml2js": "*",
+    "ejs": ">= 0.0.0",
+    "passport": ">= 0.0.0",
+    "passport-goodreads": ">= 0.0.0",
+    "method-override": "~1.0.2"
+  }
+}

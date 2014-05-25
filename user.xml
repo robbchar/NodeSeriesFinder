@@ -1,0 +1,919 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[qWqSov4tZxgcRuMjoabsg]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+    <id>21047406</id>
+    <name>Robb Charnock</name>
+    <user_name></user_name>
+    <link><![CDATA[https://www.goodreads.com/user/show/21047406-robb-charnock]]></link>
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370464874p3/21047406.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370464874p2/21047406.jpg]]></small_image_url>
+    <about></about>
+    <age></age>
+    <gender>male</gender>
+    <location>The United States</location>
+    <website></website>
+    <joined>06/2013</joined>
+    <last_active>05/2014</last_active>
+    <interests></interests>
+    <favorite_books></favorite_books>
+    <favorite_authors>
+    </favorite_authors>
+    <updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/21047406.xml?key=z6S39_vlkFeVxRaGpV6ipznIfVkYrw7QV7gyvp6x2x_l9pT-]]></updates_rss_url>
+    <reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/21047406.xml?key=z6S39_vlkFeVxRaGpV6ipznIfVkYrw7QV7gyvp6x2x_l9pT-&shelf=%23ALL%23]]></reviews_rss_url>
+    <friends_count type="integer">40</friends_count>
+    <groups_count>0</groups_count>
+    <reviews_count type="integer">227</reviews_count>
+    <user_shelves type="array">
+      <user_shelf>
+        <book_count type="integer">223</book_count>
+        <description nil="true"/>
+        <display_fields></display_fields>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <featured type="boolean">true</featured>
+        <id type="integer">67857001</id>
+        <name>read</name>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <recommend_for type="boolean">false</recommend_for>
+        <sort nil="true"/>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+      <user_shelf>
+        <book_count type="integer">1</book_count>
+        <description nil="true"/>
+        <display_fields></display_fields>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <featured type="boolean">false</featured>
+        <id type="integer">67857000</id>
+        <name>currently-reading</name>
+        <order nil="true"/>
+        <per_page type="integer" nil="true"/>
+        <recommend_for type="boolean">false</recommend_for>
+        <sort nil="true"/>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+      <user_shelf>
+        <book_count type="integer">3</book_count>
+        <description nil="true"/>
+        <display_fields></display_fields>
+        <exclusive_flag type="boolean">true</exclusive_flag>
+        <featured type="boolean">false</featured>
+        <id type="integer">67856999</id>
+        <name>to-read</name>
+        <order>a</order>
+        <per_page type="integer" nil="true"/>
+        <recommend_for type="boolean">true</recommend_for>
+        <sort>position</sort>
+        <sticky type="boolean" nil="true"/>
+      </user_shelf>
+    </user_shelves>
+    <updates type="array">
+      <update type="readstatus">
+        <action_text><![CDATA[started reading <a href="https://www.goodreads.com/review/show/941852234" only_path="false">Angelmaker</a>]]></action_text>
+        <link>https://www.goodreads.com/read_statuses/433150500</link>
+        <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Thu, 22 May 2014 10:23:28 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">433150500</id>
+            <old_status>to-read</old_status>
+            <review_id type="integer">941852234</review_id>
+            <status>currently-reading</status>
+            <updated_at type="datetime">2014-05-22T17:23:28+00:00</updated_at>
+            <user_id type="integer">21047406</user_id>
+            <review>
+              <book-id type="integer">12266560</book-id>
+              <comments-count type="integer">0</comments-count>
+              <created-at type="datetime">2014-05-19T15:14:41+00:00</created-at>
+              <hidden-flag type="boolean">false</hidden-flag>
+              <id type="integer">941852234</id>
+              <language-code type="integer" nil="true"/>
+              <last-comment-at type="datetime" nil="true"/>
+              <last-revision-at type="datetime">2014-05-22T17:23:28+00:00</last-revision-at>
+              <non-friends-rating-count type="integer">0</non-friends-rating-count>
+              <notes nil="true"/>
+              <rating type="integer">0</rating>
+              <ratings-count type="integer">0</ratings-count>
+              <ratings-sum type="integer">0</ratings-sum>
+              <read-at type="datetime" nil="true"/>
+              <read-count nil="true"/>
+              <read-status>currently-reading</read-status>
+              <recommendation nil="true"/>
+              <recommender-user-id1 type="integer">0</recommender-user-id1>
+              <recommender-user-name1 nil="true"/>
+              <review nil="true"/>
+              <sell-flag type="boolean">false</sell-flag>
+              <spoiler-flag type="boolean">false</spoiler-flag>
+              <started-at type="datetime">2014-05-22T17:23:28+00:00</started-at>
+              <updated-at type="datetime">2014-05-22T17:23:28+00:00</updated-at>
+              <user-id type="integer">21047406</user-id>
+              <weight type="integer">0</weight>
+              <work-id type="integer">14751763</work-id>
+              <book>
+                <asin nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author_id type="integer">1100593</author_id>
+                <author_id_updater_user_id type="integer">-50</author_id_updater_user_id>
+                <author_role nil="true"/>
+                <author_role_updater_user_id type="integer">1254616</author_role_updater_user_id>
+                <book_authors_count type="integer">0</book_authors_count>
+                <created_at type="datetime">2011-08-03T17:21:16+00:00</created_at>
+                <description>&lt;b&gt;A &lt;i&gt;Wall Street Journal&lt;/i&gt; and &lt;i&gt;Booklist&lt;/i&gt; Best Mystery of 2012 &lt;br&gt;&lt;/b&gt;&lt;br&gt;From the acclaimed author of &lt;i&gt;The Gone-Away World,&lt;/i&gt; blistering gangster noir meets howling absurdist comedy as the forces of good square off against the forces of evil, and only an unassuming clockwork repairman and an octogenarian former superspy can save the world from total destruction.&lt;br&gt; &lt;br&gt;Joe Spork spends his days fixing antique clocks. The son of infamous London criminal Mathew “Tommy Gun” Spork, he has turned his back on his family’s mobster history and aims to live a quiet life. That orderly existence is suddenly upended when Joe activates a particularly unusual clockwork mechanism. His client, Edie Banister, is more than the kindly old lady she appears to be—she’s a retired international secret agent. And the device? It’s a 1950s doomsday machine. Having triggered it, Joe now faces the wrath of both the British government and a diabolical South Asian dictator who is also Edie’s old arch-nemesis. On the upside, Joe’s got a girl: a bold receptionist named Polly whose smarts, savvy and sex appeal may be just what he needs. With Joe’s once-quiet world suddenly overrun by mad monks, psychopathic serial killers, scientific geniuses and threats to the future of conscious life in the universe, he realizes that the only way to survive is to muster the courage to fight, help Edie complete a mission she abandoned years ago and pick up his father’s old gun . . .</description>
+                <description_language_code nil="true"/>
+                <description_updater_user_id type="integer">-50</description_updater_user_id>
+                <edition_information nil="true"/>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format>Hardcover</format>
+                <format_updater_user_id type="integer">-50</format_updater_user_id>
+                <id type="integer">12266560</id>
+                <image_updater_user_id type="integer">4492814</image_updater_user_id>
+                <image_uploaded_at type="datetime">2012-01-09T15:03:21+00:00</image_uploaded_at>
+                <isbn>0307595951</isbn>
+                <isbn13>9780307595959</isbn13>
+                <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+                <language_code>eng</language_code>
+                <language_updater_user_id type="integer">-110</language_updater_user_id>
+                <num_pages type="integer">482</num_pages>
+                <num_pages_updater_user_id type="integer">1188122</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>
+                <publication_day type="integer">20</publication_day>
+                <publication_month type="integer">3</publication_month>
+                <publication_year type="integer">2012</publication_year>
+                <publisher>Alfred A. Knopf</publisher>
+                <publisher_language_code nil="true"/>
+                <publisher_updater_user_id type="integer">5973245</publisher_updater_user_id>
+                <ratings_count type="integer">3293</ratings_count>
+                <ratings_sum type="integer">13125</ratings_sum>
+                <reviews_count type="integer">10452</reviews_count>
+                <s3_image_at type="datetime">2012-09-23T20:16:47+00:00</s3_image_at>
+                <sort_by_title>angelmaker</sort_by_title>
+                <source_url nil="true"/>
+                <text_reviews_count type="integer">652</text_reviews_count>
+                <title>Angelmaker</title>
+                <title_language_code nil="true"/>
+                <title_updater_user_id type="integer">-50</title_updater_user_id>
+                <updated_at type="datetime">2014-05-22T22:26:54+00:00</updated_at>
+                <url nil="true"/>
+                <url_updater_user_id type="integer" nil="true"/>
+                <work_id type="integer">14751763</work_id>
+                <author>
+                  <about>Nick Harkaway was born in Cornwall, UK in 1972. He is possessed of two explosively exciting eyebrows, which exert an almost hypnotic attraction over small children, dogs, and - thankfully - one ludicrously attractive human rights lawyer, to whom he is married.
+
+                    He likes: oceans, mountains, lakes, valleys, and those little pigs made of marzipan they have in Switzerland at new year.
+
+                    He does not like: bivalves. You just can't trust them.
+
+                  </about>
+                  <author_program_at type="datetime" nil="true"/>
+                  <best_book_id type="integer">3007704</best_book_id>
+                  <books_count type="integer">53</books_count>
+                  <born_at type="datetime">1972-11-26T00:00:00+00:00</born_at>
+                  <country_code>GB</country_code>
+                  <created_at type="datetime">2008-01-01T23:05:51+00:00</created_at>
+                  <died_at type="datetime" nil="true"/>
+                  <fanships_count type="integer">544</fanships_count>
+                  <gender>M</gender>
+                  <genre1>Literature &amp; Fiction</genre1>
+                  <genre2>Mystery &amp; Thrillers</genre2>
+                  <genre3>Science Fiction &amp; Fantasy</genre3>
+                  <hometown>Truro</hometown>
+                  <id type="integer">1100593</id>
+                  <image_copyright>I took this picture myself. Those are my feet.</image_copyright>
+                  <image_uploaded_at type="datetime">2009-08-25T17:14:35+00:00</image_uploaded_at>
+                  <influences>P G Wodehouse, Michael Chabon, Tom Robbins, Robert Anton Wilson, Alexandre Dumas (père), Jeanette Winterson, Louis de Bernières, Joan Aiken, Carl Hiaasen, Don DeLillo</influences>
+                  <name>Nick Harkaway</name>
+                  <name_language_code nil="true"/>
+                  <postal_code nil="true"/>
+                  <rating_dist>5:544|4:393|3:147|2:70|1:29|total:1183</rating_dist>
+                  <ratings_count type="integer">9326</ratings_count>
+                  <ratings_sum type="integer">38040</ratings_sum>
+                  <reviews_count type="integer">28141</reviews_count>
+                  <s3_image_at type="datetime">2009-08-25T17:14:50+00:00</s3_image_at>
+                  <searched_for_at type="datetime">2008-06-09T23:57:11+00:00</searched_for_at>
+                  <text_reviews_count type="integer">1922</text_reviews_count>
+                  <updated_at type="datetime">2014-05-23T20:02:38+00:00</updated_at>
+                  <uploader_user_id type="integer">1254616</uploader_user_id>
+                  <url>http://www.nickharkaway.com</url>
+                  <user_id type="integer">1254616</user_id>
+                  <works_count type="integer">10</works_count>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="review">
+        <action_text><![CDATA[gave 4 stars to <a href="https://www.goodreads.com/book/show/16395913-fire-in-the-hole">Fire in the Hole (ebook)</a> by <a href="https://www.goodreads.com/author/show/12940.Elmore_Leonard">Elmore Leonard</a>]]></action_text>
+        <link>https://www.goodreads.com/review/show/903334853</link>
+        <image_url>https://d.gr-assets.com/books/1366475416s/16395913.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Mon, 19 May 2014 21:24:59 -0700</updated_at>
+        <action type="rating">
+          <rating>4</rating>
+        </action>
+        <object>
+          <book>
+            <id>16395913</id>
+            <title>Fire in the Hole</title>
+            <link>https://www.goodreads.com/book/show/16395913-fire-in-the-hole</link>
+            <authors>
+              <author>
+                <id>12940</id>
+                <name>Elmore Leonard</name>
+                <image_url><![CDATA[https://d.gr-assets.com/authors/1240015224p5/12940.jpg]]></image_url>
+                <small_image_url><![CDATA[https://d.gr-assets.com/authors/1240015224p2/12940.jpg]]></small_image_url>
+                <link><![CDATA[https://www.goodreads.com/author/show/12940.Elmore_Leonard]]></link>
+                <average_rating>3.70</average_rating>
+                <ratings_count>98850</ratings_count>
+                <text_reviews_count>6868</text_reviews_count>
+              </author>
+            </authors>
+          </book>
+        </object>
+      </update>
+      <update type="comment">
+        <action_text><![CDATA[<a href="https://www.goodreads.com/user/show/21047406-robb-charnock">Robb</a> commented on Kbuxton's recommendation of Angelmaker to Robb]]></action_text>
+        <link>https://www.goodreads.com/book/recommendation/12262431</link>
+        <image_url>https://d.gr-assets.com/books/1326121401s/12266560.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Mon, 19 May 2014 08:15:12 -0700</updated_at>
+        <body><![CDATA[Thank you, it's on my to read :)]]></body>
+      </update>
+      <update type="readstatus">
+        <action_text><![CDATA[wants to read <a href="https://www.goodreads.com/review/show/941852234" only_path="false">Angelmaker</a>]]></action_text>
+        <link>https://www.goodreads.com/read_statuses/429226401</link>
+        <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Mon, 19 May 2014 08:14:41 -0700</updated_at>
+        <object>
+          <read_status>
+            <id type="integer">429226401</id>
+            <old_status nil="true"/>
+            <review_id type="integer">941852234</review_id>
+            <status>to-read</status>
+            <updated_at type="datetime">2014-05-19T15:14:41+00:00</updated_at>
+            <user_id type="integer">21047406</user_id>
+            <review>
+              <book-id type="integer">12266560</book-id>
+              <comments-count type="integer">0</comments-count>
+              <created-at type="datetime">2014-05-19T15:14:41+00:00</created-at>
+              <hidden-flag type="boolean">false</hidden-flag>
+              <id type="integer">941852234</id>
+              <language-code type="integer" nil="true"/>
+              <last-comment-at type="datetime" nil="true"/>
+              <last-revision-at type="datetime">2014-05-22T17:23:28+00:00</last-revision-at>
+              <non-friends-rating-count type="integer">0</non-friends-rating-count>
+              <notes nil="true"/>
+              <rating type="integer">0</rating>
+              <ratings-count type="integer">0</ratings-count>
+              <ratings-sum type="integer">0</ratings-sum>
+              <read-at type="datetime" nil="true"/>
+              <read-count nil="true"/>
+              <read-status>currently-reading</read-status>
+              <recommendation nil="true"/>
+              <recommender-user-id1 type="integer">0</recommender-user-id1>
+              <recommender-user-name1 nil="true"/>
+              <review nil="true"/>
+              <sell-flag type="boolean">false</sell-flag>
+              <spoiler-flag type="boolean">false</spoiler-flag>
+              <started-at type="datetime">2014-05-22T17:23:28+00:00</started-at>
+              <updated-at type="datetime">2014-05-22T17:23:28+00:00</updated-at>
+              <user-id type="integer">21047406</user-id>
+              <weight type="integer">0</weight>
+              <work-id type="integer">14751763</work-id>
+              <book>
+                <asin nil="true"/>
+                <asin_updater_user_id type="integer" nil="true"/>
+                <author_id type="integer">1100593</author_id>
+                <author_id_updater_user_id type="integer">-50</author_id_updater_user_id>
+                <author_role nil="true"/>
+                <author_role_updater_user_id type="integer">1254616</author_role_updater_user_id>
+                <book_authors_count type="integer">0</book_authors_count>
+                <created_at type="datetime">2011-08-03T17:21:16+00:00</created_at>
+                <description>&lt;b&gt;A &lt;i&gt;Wall Street Journal&lt;/i&gt; and &lt;i&gt;Booklist&lt;/i&gt; Best Mystery of 2012 &lt;br&gt;&lt;/b&gt;&lt;br&gt;From the acclaimed author of &lt;i&gt;The Gone-Away World,&lt;/i&gt; blistering gangster noir meets howling absurdist comedy as the forces of good square off against the forces of evil, and only an unassuming clockwork repairman and an octogenarian former superspy can save the world from total destruction.&lt;br&gt; &lt;br&gt;Joe Spork spends his days fixing antique clocks. The son of infamous London criminal Mathew “Tommy Gun” Spork, he has turned his back on his family’s mobster history and aims to live a quiet life. That orderly existence is suddenly upended when Joe activates a particularly unusual clockwork mechanism. His client, Edie Banister, is more than the kindly old lady she appears to be—she’s a retired international secret agent. And the device? It’s a 1950s doomsday machine. Having triggered it, Joe now faces the wrath of both the British government and a diabolical South Asian dictator who is also Edie’s old arch-nemesis. On the upside, Joe’s got a girl: a bold receptionist named Polly whose smarts, savvy and sex appeal may be just what he needs. With Joe’s once-quiet world suddenly overrun by mad monks, psychopathic serial killers, scientific geniuses and threats to the future of conscious life in the universe, he realizes that the only way to survive is to muster the courage to fight, help Edie complete a mission she abandoned years ago and pick up his father’s old gun . . .</description>
+                <description_language_code nil="true"/>
+                <description_updater_user_id type="integer">-50</description_updater_user_id>
+                <edition_information nil="true"/>
+                <edition_information_updater_user_id type="integer" nil="true"/>
+                <format>Hardcover</format>
+                <format_updater_user_id type="integer">-50</format_updater_user_id>
+                <id type="integer">12266560</id>
+                <image_updater_user_id type="integer">4492814</image_updater_user_id>
+                <image_uploaded_at type="datetime">2012-01-09T15:03:21+00:00</image_uploaded_at>
+                <isbn>0307595951</isbn>
+                <isbn13>9780307595959</isbn13>
+                <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                <isbn_updater_user_id type="integer">-50</isbn_updater_user_id>
+                <language_code>eng</language_code>
+                <language_updater_user_id type="integer">-110</language_updater_user_id>
+                <num_pages type="integer">482</num_pages>
+                <num_pages_updater_user_id type="integer">1188122</num_pages_updater_user_id>
+                <publication_date_updater_user_id type="integer">-50</publication_date_updater_user_id>
+                <publication_day type="integer">20</publication_day>
+                <publication_month type="integer">3</publication_month>
+                <publication_year type="integer">2012</publication_year>
+                <publisher>Alfred A. Knopf</publisher>
+                <publisher_language_code nil="true"/>
+                <publisher_updater_user_id type="integer">5973245</publisher_updater_user_id>
+                <ratings_count type="integer">3293</ratings_count>
+                <ratings_sum type="integer">13125</ratings_sum>
+                <reviews_count type="integer">10452</reviews_count>
+                <s3_image_at type="datetime">2012-09-23T20:16:47+00:00</s3_image_at>
+                <sort_by_title>angelmaker</sort_by_title>
+                <source_url nil="true"/>
+                <text_reviews_count type="integer">652</text_reviews_count>
+                <title>Angelmaker</title>
+                <title_language_code nil="true"/>
+                <title_updater_user_id type="integer">-50</title_updater_user_id>
+                <updated_at type="datetime">2014-05-22T22:26:54+00:00</updated_at>
+                <url nil="true"/>
+                <url_updater_user_id type="integer" nil="true"/>
+                <work_id type="integer">14751763</work_id>
+                <author>
+                  <about>Nick Harkaway was born in Cornwall, UK in 1972. He is possessed of two explosively exciting eyebrows, which exert an almost hypnotic attraction over small children, dogs, and - thankfully - one ludicrously attractive human rights lawyer, to whom he is married.
+
+                    He likes: oceans, mountains, lakes, valleys, and those little pigs made of marzipan they have in Switzerland at new year.
+
+                    He does not like: bivalves. You just can't trust them.
+
+                  </about>
+                  <author_program_at type="datetime" nil="true"/>
+                  <best_book_id type="integer">3007704</best_book_id>
+                  <books_count type="integer">53</books_count>
+                  <born_at type="datetime">1972-11-26T00:00:00+00:00</born_at>
+                  <country_code>GB</country_code>
+                  <created_at type="datetime">2008-01-01T23:05:51+00:00</created_at>
+                  <died_at type="datetime" nil="true"/>
+                  <fanships_count type="integer">544</fanships_count>
+                  <gender>M</gender>
+                  <genre1>Literature &amp; Fiction</genre1>
+                  <genre2>Mystery &amp; Thrillers</genre2>
+                  <genre3>Science Fiction &amp; Fantasy</genre3>
+                  <hometown>Truro</hometown>
+                  <id type="integer">1100593</id>
+                  <image_copyright>I took this picture myself. Those are my feet.</image_copyright>
+                  <image_uploaded_at type="datetime">2009-08-25T17:14:35+00:00</image_uploaded_at>
+                  <influences>P G Wodehouse, Michael Chabon, Tom Robbins, Robert Anton Wilson, Alexandre Dumas (père), Jeanette Winterson, Louis de Bernières, Joan Aiken, Carl Hiaasen, Don DeLillo</influences>
+                  <name>Nick Harkaway</name>
+                  <name_language_code nil="true"/>
+                  <postal_code nil="true"/>
+                  <rating_dist>5:544|4:393|3:147|2:70|1:29|total:1183</rating_dist>
+                  <ratings_count type="integer">9326</ratings_count>
+                  <ratings_sum type="integer">38040</ratings_sum>
+                  <reviews_count type="integer">28141</reviews_count>
+                  <s3_image_at type="datetime">2009-08-25T17:14:50+00:00</s3_image_at>
+                  <searched_for_at type="datetime">2008-06-09T23:57:11+00:00</searched_for_at>
+                  <text_reviews_count type="integer">1922</text_reviews_count>
+                  <updated_at type="datetime">2014-05-23T20:02:38+00:00</updated_at>
+                  <uploader_user_id type="integer">1254616</uploader_user_id>
+                  <url>http://www.nickharkaway.com</url>
+                  <user_id type="integer">1254616</user_id>
+                  <works_count type="integer">10</works_count>
+                </author>
+              </book>
+            </review>
+          </read_status>
+
+        </object>
+      </update>
+      <update type="review">
+        <action_text><![CDATA[gave 5 stars to <a href="https://www.goodreads.com/book/show/26999.Something_Rotten">Something Rotten (Thursday Next, #4)</a> by <a href="https://www.goodreads.com/author/show/4432.Jasper_Fforde">Jasper Fforde</a>]]></action_text>
+        <link>https://www.goodreads.com/review/show/920057416</link>
+        <image_url>https://d.gr-assets.com/books/1270782422s/26999.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Thu, 08 May 2014 22:07:08 -0700</updated_at>
+        <action type="rating">
+          <rating>5</rating>
+        </action>
+        <object>
+          <book>
+            <id>26999</id>
+            <title><![CDATA[Something Rotten (Thursday Next, #4)]]></title>
+            <link>https://www.goodreads.com/book/show/26999.Something_Rotten</link>
+            <authors>
+              <author>
+                <id>4432</id>
+                <name>Jasper Fforde</name>
+                <image_url><![CDATA[https://d.gr-assets.com/authors/1350497674p5/4432.jpg]]></image_url>
+                <small_image_url><![CDATA[https://d.gr-assets.com/authors/1350497674p2/4432.jpg]]></small_image_url>
+                <link><![CDATA[https://www.goodreads.com/author/show/4432.Jasper_Fforde]]></link>
+                <average_rating>4.00</average_rating>
+                <ratings_count>231714</ratings_count>
+                <text_reviews_count>20577</text_reviews_count>
+              </author>
+            </authors>
+          </book>
+        </object>
+      </update>
+      <update type="userstatus">
+        <action_text><![CDATA[is 81% done with <a href="http://www.goodreads.com/book/show/26999.Something_Rotten">Something Rotten</a>]]></action_text>
+        <link>https://www.goodreads.com/user_status/show/43161080</link>
+        <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+        <actor>
+          <id type="integer">21047406</id>
+          <name>Robb Charnock</name>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+        </actor>
+        <updated_at>Mon, 05 May 2014 23:17:21 -0700</updated_at>
+        <object>
+          <user_status>
+            <body></body>
+            <book_id type="integer">26999</book_id>
+            <chapter type="integer" nil="true"/>
+            <comments_count type="integer">0</comments_count>
+            <created_at type="datetime">2014-05-06T06:17:21+00:00</created_at>
+            <id type="integer">43161080</id>
+            <last_comment_at type="datetime" nil="true"/>
+            <note_updated_at type="datetime" nil="true"/>
+            <note_uri nil="true"/>
+            <page type="integer" nil="true"/>
+            <percent type="integer">81</percent>
+            <ratings_count type="integer">0</ratings_count>
+            <updated_at type="datetime">2014-05-06T06:17:21+00:00</updated_at>
+            <user_id type="integer">21047406</user_id>
+            <work_id type="integer">948606</work_id>
+            <review_id type="integer">920057416</review_id>
+            <book>
+              <asin nil="true"/>
+              <asin_updater_user_id type="integer" nil="true"/>
+              <author_id type="integer">4432</author_id>
+              <author_id_updater_user_id type="integer">-44</author_id_updater_user_id>
+              <author_role nil="true"/>
+              <author_role_updater_user_id type="integer">141804</author_role_updater_user_id>
+              <book_authors_count type="integer">0</book_authors_count>
+              <created_at type="datetime">2007-01-03T20:45:06+00:00</created_at>
+              <description nil="true"/>
+              <description_language_code nil="true"/>
+              <description_updater_user_id type="integer">834216</description_updater_user_id>
+              <edition_information nil="true"/>
+              <edition_information_updater_user_id type="integer" nil="true"/>
+              <format>Paperback</format>
+              <format_updater_user_id type="integer">-44</format_updater_user_id>
+              <id type="integer">26999</id>
+              <image_updater_user_id type="integer">1204629</image_updater_user_id>
+              <image_uploaded_at type="datetime">2010-04-09T03:07:02+00:00</image_uploaded_at>
+              <isbn>014303541X</isbn>
+              <isbn13>9780143035411</isbn13>
+              <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+              <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+              <language_code>eng</language_code>
+              <language_updater_user_id type="integer">2442294</language_updater_user_id>
+              <num_pages type="integer">385</num_pages>
+              <num_pages_updater_user_id type="integer">171430</num_pages_updater_user_id>
+              <publication_date_updater_user_id type="integer">2442294</publication_date_updater_user_id>
+              <publication_day type="integer">26</publication_day>
+              <publication_month type="integer">7</publication_month>
+              <publication_year type="integer">2005</publication_year>
+              <publisher>Penguin Books</publisher>
+              <publisher_language_code nil="true"/>
+              <publisher_updater_user_id type="integer">2442294</publisher_updater_user_id>
+              <ratings_count type="integer">17900</ratings_count>
+              <ratings_sum type="integer">73819</ratings_sum>
+              <reviews_count type="integer">24275</reviews_count>
+              <s3_image_at type="datetime">2012-09-22T20:05:23+00:00</s3_image_at>
+              <sort_by_title>something rotten (thursday next, #4)</sort_by_title>
+              <source_url nil="true"/>
+              <text_reviews_count type="integer">745</text_reviews_count>
+              <title>Something Rotten (Thursday Next, #4)</title>
+              <title_language_code nil="true"/>
+              <title_updater_user_id type="integer">141804</title_updater_user_id>
+              <updated_at type="datetime">2014-05-23T09:06:32+00:00</updated_at>
+              <url nil="true"/>
+              <url_updater_user_id type="integer" nil="true"/>
+              <work_id type="integer">948606</work_id>
+              <author>
+                <about>Jasper Fforde is a novelist living in Wales. He is the son of John Standish Fforde, the 24th Chief Cashier for the Bank of England, whose signature used to appear on sterling banknotes, and is cousin of [a:Desmond Fforde|4200171|Desmond Fforde|/assets/nophoto/nophoto-M-50x66-e07624dc012f2cce49c7d9aa6500c6c0.jpg], married with the author [a:Katie Fforde|86097|Katie Fforde|http://d.gr-assets.com/authors/1270774921p2/86097.jpg]. His early career was spent as a focus puller in the film industry, where he worked on a number of films including Quills, GoldenEye, and Entrapment.
+
+                  His published books include a series of novels starring Thursday Next: [b:The Eyre Affair|27003|The Eyre Affair (Thursday Next #1)|Jasper Fforde|http://d.gr-assets.com/books/1309201183s/27003.jpg|3436605] (2001), [b:Lost in a Good Book|27000|Lost in a Good Book (Thursday Next, #2)|Jasper Fforde|http://d.gr-assets.com/books/1348095035s/27000.jpg|1918119] (2002), [b:The Well of Lost Plots|27001|The Well of Lost Plots (Thursday Next #3)|Jasper Fforde|http://d.gr-assets.com/books/1304713470s/27001.jpg|1116054] (2003), [b:Something Rotten|26999|Something Rotten (Thursday Next, #4)|Jasper Fforde|http://d.gr-assets.com/books/1270782422s/26999.jpg|948606] (2004) and [b:First Among Sequels|27002|First Among Sequels (Thursday Next, #5)|Jasper Fforde|http://d.gr-assets.com/books/1338467549s/27002.jpg|948585] (2007). [b:The Big Over Easy|6628|The Big Over Easy (Nursery Crime, #1)|Jasper Fforde|http://d.gr-assets.com/books/1309287709s/6628.jpg|2504943] (2005), which shares a similar setting with the Next novels, is a reworking of his first written novel, which initially failed to find a publisher. It had the working title of Nursery Crime, which is the title now used to refer to this series of books. The follow-up to The Big Over Easy, [b:The Fourth Bear|148809|The Fourth Bear (Nursery Crime, #2)|Jasper Fforde|http://d.gr-assets.com/books/1309287076s/148809.jpg|948571] was published in July 2006 and focuses on Goldilocks and the Three Bears.
+
+                  &lt;b&gt;Series:&lt;/b&gt;
+                  * &lt;a href="http://www.goodreads.com/series/43680-thursday-next"&gt;Thursday Next&lt;/a&gt;
+                  * &lt;a href="http://www.goodreads.com/series/43679-nursery-crime"&gt;Nursery Crime&lt;/a&gt;
+                  * &lt;a href="http://www.goodreads.com/series/51553-shades-of-grey"&gt;Shades of Grey&lt;/a&gt;</about>
+                  <author_program_at type="datetime" nil="true"/>
+                  <best_book_id type="integer">27003</best_book_id>
+                  <books_count type="integer">439</books_count>
+                  <born_at type="datetime">1961-01-11T00:00:00+00:00</born_at>
+                  <country_code>GB</country_code>
+                  <created_at type="datetime">2006-12-08T18:56:22+00:00</created_at>
+                  <died_at type="datetime" nil="true"/>
+                  <fanships_count type="integer">4382</fanships_count>
+                  <gender>M</gender>
+                  <genre1>Science Fiction &amp; Fantasy</genre1>
+                  <genre2>Literature &amp; Fiction</genre2>
+                  <genre3></genre3>
+                  <hometown>London, England</hometown>
+                  <id type="integer">4432</id>
+                  <image_copyright>Photo Credit: Mari Fforde</image_copyright>
+                  <image_uploaded_at type="datetime">2012-10-17T18:14:34+00:00</image_uploaded_at>
+                  <influences></influences>
+                  <name>Jasper Fforde</name>
+                  <name_language_code nil="true"/>
+                  <postal_code nil="true"/>
+                  <rating_dist>5:24499|4:33846|3:17766|2:3486|1:891|total:80488</rating_dist>
+                  <ratings_count type="integer">231714</ratings_count>
+                  <ratings_sum type="integer">927603</ratings_sum>
+                  <reviews_count type="integer">382849</reviews_count>
+                  <s3_image_at type="datetime" nil="true"/>
+                  <searched_for_at type="datetime">2007-01-08T18:55:17+00:00</searched_for_at>
+                  <text_reviews_count type="integer">20577</text_reviews_count>
+                  <updated_at type="datetime">2014-05-23T19:30:58+00:00</updated_at>
+                  <uploader_user_id type="integer">603238</uploader_user_id>
+                  <url>http://www.jasperfforde.com</url>
+                  <user_id type="integer" nil="true"/>
+                  <works_count type="integer">24</works_count>
+                </author>
+              </book>
+            </user_status>
+          </object>
+        </update>
+        <update type="readstatus">
+          <action_text><![CDATA[wants to read <a href="https://www.goodreads.com/review/show/920058449" only_path="false">Outlander (Outlander, #1)</a>]]></action_text>
+          <link>https://www.goodreads.com/read_statuses/401831284</link>
+          <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+          <actor>
+            <id type="integer">21047406</id>
+            <name>Robb Charnock</name>
+            <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+            <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+          </actor>
+          <updated_at>Fri, 25 Apr 2014 06:10:58 -0700</updated_at>
+          <object>
+            <read_status>
+              <id type="integer">401831284</id>
+              <old_status nil="true"/>
+              <review_id type="integer">920058449</review_id>
+              <status>to-read</status>
+              <updated_at type="datetime">2014-04-25T13:10:58+00:00</updated_at>
+              <user_id type="integer">21047406</user_id>
+              <review>
+                <book-id type="integer">10964</book-id>
+                <comments-count type="integer">0</comments-count>
+                <created-at type="datetime">2014-04-25T13:10:58+00:00</created-at>
+                <hidden-flag type="boolean">false</hidden-flag>
+                <id type="integer">920058449</id>
+                <language-code type="integer" nil="true"/>
+                <last-comment-at type="datetime" nil="true"/>
+                <last-revision-at type="datetime">2014-04-25T13:10:58+00:00</last-revision-at>
+                <non-friends-rating-count type="integer">0</non-friends-rating-count>
+                <notes nil="true"/>
+                <rating type="integer">0</rating>
+                <ratings-count type="integer">0</ratings-count>
+                <ratings-sum type="integer">0</ratings-sum>
+                <read-at type="datetime" nil="true"/>
+                <read-count nil="true"/>
+                <read-status>to-read</read-status>
+                <recommendation nil="true"/>
+                <recommender-user-id1 type="integer">0</recommender-user-id1>
+                <recommender-user-name1 nil="true"/>
+                <review nil="true"/>
+                <sell-flag type="boolean">false</sell-flag>
+                <spoiler-flag type="boolean">false</spoiler-flag>
+                <started-at type="datetime" nil="true"/>
+                <updated-at type="datetime">2014-04-25T13:10:58+00:00</updated-at>
+                <user-id type="integer">21047406</user-id>
+                <weight type="integer">0</weight>
+                <work-id type="integer">2489796</work-id>
+                <book>
+                  <asin nil="true"/>
+                  <asin_updater_user_id type="integer" nil="true"/>
+                  <author_id type="integer">3617</author_id>
+                  <author_id_updater_user_id type="integer">186853</author_id_updater_user_id>
+                  <author_role nil="true"/>
+                  <author_role_updater_user_id type="integer">141804</author_role_updater_user_id>
+                  <book_authors_count type="integer">0</book_authors_count>
+                  <created_at type="datetime">2006-12-17T22:29:00+00:00</created_at>
+                  <description nil="true"/>
+                  <description_language_code nil="true"/>
+                  <description_updater_user_id type="integer">171430</description_updater_user_id>
+                  <edition_information nil="true"/>
+                  <edition_information_updater_user_id type="integer" nil="true"/>
+                  <format>Paperback</format>
+                  <format_updater_user_id type="integer">-51</format_updater_user_id>
+                  <id type="integer">10964</id>
+                  <image_updater_user_id type="integer">7578432</image_updater_user_id>
+                  <image_uploaded_at type="datetime">2013-08-28T20:04:56+00:00</image_uploaded_at>
+                  <isbn>0440242940</isbn>
+                  <isbn13>9780440242949</isbn13>
+                  <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+                  <isbn_updater_user_id type="integer">-51</isbn_updater_user_id>
+                  <language_code>eng</language_code>
+                  <language_updater_user_id type="integer">-9</language_updater_user_id>
+                  <num_pages type="integer">870</num_pages>
+                  <num_pages_updater_user_id type="integer">5232858</num_pages_updater_user_id>
+                  <publication_date_updater_user_id type="integer">-51</publication_date_updater_user_id>
+                  <publication_day type="integer">26</publication_day>
+                  <publication_month type="integer">7</publication_month>
+                  <publication_year type="integer">2005</publication_year>
+                  <publisher>Dell Publishing Company</publisher>
+                  <publisher_language_code nil="true"/>
+                  <publisher_updater_user_id type="integer">-51</publisher_updater_user_id>
+                  <ratings_count type="integer">246005</ratings_count>
+                  <ratings_sum type="integer">1014647</ratings_sum>
+                  <reviews_count type="integer">369638</reviews_count>
+                  <s3_image_at type="datetime">2013-08-28T20:04:59+00:00</s3_image_at>
+                  <sort_by_title>outlander (outlander, #1)</sort_by_title>
+                  <source_url nil="true"/>
+                  <text_reviews_count type="integer">15045</text_reviews_count>
+                  <title>Outlander (Outlander, #1)</title>
+                  <title_language_code nil="true"/>
+                  <title_updater_user_id type="integer">4134979</title_updater_user_id>
+                  <updated_at type="datetime">2014-05-23T15:31:34+00:00</updated_at>
+                  <url>http://www.dianagabaldon.com/writing/the-outlander/outlander/</url>
+                  <url_updater_user_id type="integer">7686312</url_updater_user_id>
+                  <work_id type="integer">2489796</work_id>
+                  <author>
+                    <about>Diana Jean Gabaldon Watkins grew up in Flagstaff, Arizona and is of Mexican-American and English descent. She has earned three degrees:  a B.S. in Zoology, a M.S. in Marine Biology, and a Ph.D in Ecology.
+
+                      She currently lives in Scottsdale, Arizona .</about>
+                      <author_program_at type="datetime">2011-10-27T23:03:11+00:00</author_program_at>
+                      <best_book_id type="integer">10964</best_book_id>
+                      <books_count type="integer">774</books_count>
+                      <born_at type="datetime">1952-01-11T00:00:00+00:00</born_at>
+                      <country_code>US</country_code>
+                      <created_at type="datetime">2006-12-07T19:18:15+00:00</created_at>
+                      <died_at type="datetime" nil="true"/>
+                      <fanships_count type="integer">11601</fanships_count>
+                      <gender>F</gender>
+                      <genre1>Science Fiction &amp; Fantasy</genre1>
+                      <genre2>Historical Fiction</genre2>
+                      <genre3>Romance</genre3>
+                      <hometown>Arizona</hometown>
+                      <id type="integer">3617</id>
+                      <image_copyright>Image licensed under http://en.wikipedia.org/wiki/GNU_Free_Documentation_License  and was created by http://commons.wikimedia.org/wiki/User:Captmondo and available online at http://en.wikipedia.org/wi</image_copyright>
+                      <image_uploaded_at type="datetime">2008-06-19T23:32:19+00:00</image_uploaded_at>
+                      <influences></influences>
+                      <name>Diana Gabaldon</name>
+                      <name_language_code nil="true"/>
+                      <postal_code nil="true"/>
+                      <rating_dist>5:99838|4:64372|3:37072|2:11431|1:8465|total:221178</rating_dist>
+                      <ratings_count type="integer">739898</ratings_count>
+                      <ratings_sum type="integer">3105257</ratings_sum>
+                      <reviews_count type="integer">1134915</reviews_count>
+                      <s3_image_at type="datetime">2008-06-19T23:32:22+00:00</s3_image_at>
+                      <searched_for_at type="datetime">2007-02-07T03:33:33+00:00</searched_for_at>
+                      <text_reviews_count type="integer">43045</text_reviews_count>
+                      <updated_at type="datetime">2014-05-23T21:23:10+00:00</updated_at>
+                      <uploader_user_id type="integer">1030319</uploader_user_id>
+                      <url>http://www.dianagabaldon.com/</url>
+                      <user_id type="integer">6800004</user_id>
+                      <works_count type="integer">114</works_count>
+                    </author>
+                  </book>
+                </review>
+              </read_status>
+
+            </object>
+          </update>
+          <update type="readstatus">
+            <action_text><![CDATA[is currently reading <a href="https://www.goodreads.com/review/show/920057416" only_path="false">Something Rotten (Thursday Next, #4)</a>]]></action_text>
+            <link>https://www.goodreads.com/read_statuses/401829904</link>
+            <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+            <actor>
+              <id type="integer">21047406</id>
+              <name>Robb Charnock</name>
+              <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+              <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+            </actor>
+            <updated_at>Fri, 25 Apr 2014 06:08:48 -0700</updated_at>
+            <object>
+              <read_status>
+                <id type="integer">401829904</id>
+                <old_status nil="true"/>
+                <review_id type="integer">920057416</review_id>
+                <status>currently-reading</status>
+                <updated_at type="datetime">2014-04-25T13:08:48+00:00</updated_at>
+                <user_id type="integer">21047406</user_id>
+                <review>
+                  <book-id type="integer">26999</book-id>
+                  <comments-count type="integer">0</comments-count>
+                  <created-at type="datetime">2014-04-25T13:08:47+00:00</created-at>
+                  <hidden-flag type="boolean">false</hidden-flag>
+                  <id type="integer">920057416</id>
+                  <language-code type="integer" nil="true"/>
+                  <last-comment-at type="datetime" nil="true"/>
+                  <last-revision-at type="datetime">2014-05-09T05:07:16+00:00</last-revision-at>
+                  <non-friends-rating-count type="integer">0</non-friends-rating-count>
+                  <notes nil="true"/>
+                  <rating type="integer">5</rating>
+                  <ratings-count type="integer">0</ratings-count>
+                  <ratings-sum type="integer">0</ratings-sum>
+                  <read-at type="datetime">2014-05-09T05:07:16+00:00</read-at>
+                  <read-count nil="true"/>
+                  <read-status>read</read-status>
+                  <recommendation nil="true"/>
+                  <recommender-user-id1 type="integer">0</recommender-user-id1>
+                  <recommender-user-name1 nil="true"/>
+                  <review nil="true"/>
+                  <sell-flag type="boolean">false</sell-flag>
+                  <spoiler-flag type="boolean">false</spoiler-flag>
+                  <started-at type="datetime">2014-04-25T13:08:47+00:00</started-at>
+                  <updated-at type="datetime">2014-05-09T05:07:16+00:00</updated-at>
+                  <user-id type="integer">21047406</user-id>
+                  <weight type="integer">0</weight>
+                  <work-id type="integer">948606</work-id>
+                  <book>
+                    <asin nil="true"/>
+                    <asin_updater_user_id type="integer" nil="true"/>
+                    <author_id type="integer">4432</author_id>
+                    <author_id_updater_user_id type="integer">-44</author_id_updater_user_id>
+                    <author_role nil="true"/>
+                    <author_role_updater_user_id type="integer">141804</author_role_updater_user_id>
+                    <book_authors_count type="integer">0</book_authors_count>
+                    <created_at type="datetime">2007-01-03T20:45:06+00:00</created_at>
+                    <description nil="true"/>
+                    <description_language_code nil="true"/>
+                    <description_updater_user_id type="integer">834216</description_updater_user_id>
+                    <edition_information nil="true"/>
+                    <edition_information_updater_user_id type="integer" nil="true"/>
+                    <format>Paperback</format>
+                    <format_updater_user_id type="integer">-44</format_updater_user_id>
+                    <id type="integer">26999</id>
+                    <image_updater_user_id type="integer">1204629</image_updater_user_id>
+                    <image_uploaded_at type="datetime">2010-04-09T03:07:02+00:00</image_uploaded_at>
+                    <isbn>014303541X</isbn>
+                    <isbn13>9780143035411</isbn13>
+                    <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+                    <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+                    <language_code>eng</language_code>
+                    <language_updater_user_id type="integer">2442294</language_updater_user_id>
+                    <num_pages type="integer">385</num_pages>
+                    <num_pages_updater_user_id type="integer">171430</num_pages_updater_user_id>
+                    <publication_date_updater_user_id type="integer">2442294</publication_date_updater_user_id>
+                    <publication_day type="integer">26</publication_day>
+                    <publication_month type="integer">7</publication_month>
+                    <publication_year type="integer">2005</publication_year>
+                    <publisher>Penguin Books</publisher>
+                    <publisher_language_code nil="true"/>
+                    <publisher_updater_user_id type="integer">2442294</publisher_updater_user_id>
+                    <ratings_count type="integer">17900</ratings_count>
+                    <ratings_sum type="integer">73819</ratings_sum>
+                    <reviews_count type="integer">24275</reviews_count>
+                    <s3_image_at type="datetime">2012-09-22T20:05:23+00:00</s3_image_at>
+                    <sort_by_title>something rotten (thursday next, #4)</sort_by_title>
+                    <source_url nil="true"/>
+                    <text_reviews_count type="integer">745</text_reviews_count>
+                    <title>Something Rotten (Thursday Next, #4)</title>
+                    <title_language_code nil="true"/>
+                    <title_updater_user_id type="integer">141804</title_updater_user_id>
+                    <updated_at type="datetime">2014-05-23T09:06:32+00:00</updated_at>
+                    <url nil="true"/>
+                    <url_updater_user_id type="integer" nil="true"/>
+                    <work_id type="integer">948606</work_id>
+                    <author>
+                      <about>Jasper Fforde is a novelist living in Wales. He is the son of John Standish Fforde, the 24th Chief Cashier for the Bank of England, whose signature used to appear on sterling banknotes, and is cousin of [a:Desmond Fforde|4200171|Desmond Fforde|/assets/nophoto/nophoto-M-50x66-e07624dc012f2cce49c7d9aa6500c6c0.jpg], married with the author [a:Katie Fforde|86097|Katie Fforde|http://d.gr-assets.com/authors/1270774921p2/86097.jpg]. His early career was spent as a focus puller in the film industry, where he worked on a number of films including Quills, GoldenEye, and Entrapment.
+
+                        His published books include a series of novels starring Thursday Next: [b:The Eyre Affair|27003|The Eyre Affair (Thursday Next #1)|Jasper Fforde|http://d.gr-assets.com/books/1309201183s/27003.jpg|3436605] (2001), [b:Lost in a Good Book|27000|Lost in a Good Book (Thursday Next, #2)|Jasper Fforde|http://d.gr-assets.com/books/1348095035s/27000.jpg|1918119] (2002), [b:The Well of Lost Plots|27001|The Well of Lost Plots (Thursday Next #3)|Jasper Fforde|http://d.gr-assets.com/books/1304713470s/27001.jpg|1116054] (2003), [b:Something Rotten|26999|Something Rotten (Thursday Next, #4)|Jasper Fforde|http://d.gr-assets.com/books/1270782422s/26999.jpg|948606] (2004) and [b:First Among Sequels|27002|First Among Sequels (Thursday Next, #5)|Jasper Fforde|http://d.gr-assets.com/books/1338467549s/27002.jpg|948585] (2007). [b:The Big Over Easy|6628|The Big Over Easy (Nursery Crime, #1)|Jasper Fforde|http://d.gr-assets.com/books/1309287709s/6628.jpg|2504943] (2005), which shares a similar setting with the Next novels, is a reworking of his first written novel, which initially failed to find a publisher. It had the working title of Nursery Crime, which is the title now used to refer to this series of books. The follow-up to The Big Over Easy, [b:The Fourth Bear|148809|The Fourth Bear (Nursery Crime, #2)|Jasper Fforde|http://d.gr-assets.com/books/1309287076s/148809.jpg|948571] was published in July 2006 and focuses on Goldilocks and the Three Bears.
+
+                        &lt;b&gt;Series:&lt;/b&gt;
+                        * &lt;a href="http://www.goodreads.com/series/43680-thursday-next"&gt;Thursday Next&lt;/a&gt;
+                        * &lt;a href="http://www.goodreads.com/series/43679-nursery-crime"&gt;Nursery Crime&lt;/a&gt;
+                        * &lt;a href="http://www.goodreads.com/series/51553-shades-of-grey"&gt;Shades of Grey&lt;/a&gt;</about>
+                        <author_program_at type="datetime" nil="true"/>
+                        <best_book_id type="integer">27003</best_book_id>
+                        <books_count type="integer">439</books_count>
+                        <born_at type="datetime">1961-01-11T00:00:00+00:00</born_at>
+                        <country_code>GB</country_code>
+                        <created_at type="datetime">2006-12-08T18:56:22+00:00</created_at>
+                        <died_at type="datetime" nil="true"/>
+                        <fanships_count type="integer">4382</fanships_count>
+                        <gender>M</gender>
+                        <genre1>Science Fiction &amp; Fantasy</genre1>
+                        <genre2>Literature &amp; Fiction</genre2>
+                        <genre3></genre3>
+                        <hometown>London, England</hometown>
+                        <id type="integer">4432</id>
+                        <image_copyright>Photo Credit: Mari Fforde</image_copyright>
+                        <image_uploaded_at type="datetime">2012-10-17T18:14:34+00:00</image_uploaded_at>
+                        <influences></influences>
+                        <name>Jasper Fforde</name>
+                        <name_language_code nil="true"/>
+                        <postal_code nil="true"/>
+                        <rating_dist>5:24499|4:33846|3:17766|2:3486|1:891|total:80488</rating_dist>
+                        <ratings_count type="integer">231714</ratings_count>
+                        <ratings_sum type="integer">927603</ratings_sum>
+                        <reviews_count type="integer">382849</reviews_count>
+                        <s3_image_at type="datetime" nil="true"/>
+                        <searched_for_at type="datetime">2007-01-08T18:55:17+00:00</searched_for_at>
+                        <text_reviews_count type="integer">20577</text_reviews_count>
+                        <updated_at type="datetime">2014-05-23T19:30:58+00:00</updated_at>
+                        <uploader_user_id type="integer">603238</uploader_user_id>
+                        <url>http://www.jasperfforde.com</url>
+                        <user_id type="integer" nil="true"/>
+                        <works_count type="integer">24</works_count>
+                      </author>
+                    </book>
+                  </review>
+                </read_status>
+
+              </object>
+            </update>
+            <update type="review">
+              <action_text><![CDATA[gave 4 stars to <a href="https://www.goodreads.com/book/show/18302455-the-circle">The Circle (Hardcover)</a> by <a href="https://www.goodreads.com/author/show/3371.Dave_Eggers">Dave Eggers</a>]]></action_text>
+              <link>https://www.goodreads.com/review/show/906211395</link>
+              <image_url>https://d.gr-assets.com/books/1376419833s/18302455.jpg</image_url>
+              <actor>
+                <id type="integer">21047406</id>
+                <name>Robb Charnock</name>
+                <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+                <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+              </actor>
+              <updated_at>Sun, 20 Apr 2014 09:09:26 -0700</updated_at>
+              <action type="rating">
+                <rating>4</rating>
+              </action>
+              <object>
+                <book>
+                  <id>18302455</id>
+                  <title>The Circle</title>
+                  <link>https://www.goodreads.com/book/show/18302455-the-circle</link>
+                  <authors>
+                    <author>
+                      <id>3371</id>
+                      <name>Dave Eggers</name>
+                      <image_url><![CDATA[https://d.gr-assets.com/authors/1383766677p5/3371.jpg]]></image_url>
+                      <small_image_url><![CDATA[https://d.gr-assets.com/authors/1383766677p2/3371.jpg]]></small_image_url>
+                      <link><![CDATA[https://www.goodreads.com/author/show/3371.Dave_Eggers]]></link>
+                      <average_rating>3.77</average_rating>
+                      <ratings_count>312062</ratings_count>
+                      <text_reviews_count>31647</text_reviews_count>
+                    </author>
+                  </authors>
+                </book>
+              </object>
+            </update>
+            <update type="review">
+              <action_text><![CDATA[gave 4 stars to <a href="https://www.goodreads.com/book/show/29579.Foundation">Foundation (Foundation, #1)</a> by <a href="https://www.goodreads.com/author/show/16667.Isaac_Asimov">Isaac Asimov</a>]]></action_text>
+              <link>https://www.goodreads.com/review/show/914267177</link>
+              <image_url>https://d.gr-assets.com/books/1386922291s/29579.jpg</image_url>
+              <actor>
+                <id type="integer">21047406</id>
+                <name>Robb Charnock</name>
+                <image_url>https://d.gr-assets.com/users/1370464874p2/21047406.jpg</image_url>
+                <link>https://www.goodreads.com/user/show/21047406-robb-charnock</link>
+              </actor>
+              <updated_at>Fri, 18 Apr 2014 21:19:50 -0700</updated_at>
+              <action type="rating">
+                <rating>4</rating>
+              </action>
+              <object>
+                <book>
+                  <id>29579</id>
+                  <title>Foundation (Foundation, #1)</title>
+                  <link>https://www.goodreads.com/book/show/29579.Foundation</link>
+                  <authors>
+                    <author>
+                      <id>16667</id>
+                      <name>Isaac Asimov</name>
+                      <image_url><![CDATA[https://d.gr-assets.com/authors/1341965730p5/16667.jpg]]></image_url>
+                      <small_image_url><![CDATA[https://d.gr-assets.com/authors/1341965730p2/16667.jpg]]></small_image_url>
+                      <link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+                      <average_rating>4.07</average_rating>
+                      <ratings_count>887652</ratings_count>
+                      <text_reviews_count>19667</text_reviews_count>
+                    </author>
+                  </authors>
+                </book>
+              </object>
+            </update>
+          </updates>
+          <user_statuses>
+          </user_statuses>
+        </user>
+
+      </GoodreadsResponse>
