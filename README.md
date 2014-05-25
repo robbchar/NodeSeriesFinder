@@ -1,4 +1,4 @@
-NodeSeriesFindero
+NodeSeriesFinder
 =================
 
 NodeSeriesFinder
