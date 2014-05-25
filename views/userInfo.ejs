@@ -3,6 +3,6 @@ Username <%= response.user[0].name[0] %>
 Shelves:
 <ul>
 <% for(var i=0, numShelves = response.user[0].user_shelves[0].user_shelf.length; i < numShelves; i++) {%>
-   <li><a href="/shelfInfo?shelfId=<%= response.user[0].user_shelves[0].user_shelf[i].id[0]._ %>"><%= response.user[0].user_shelves[0].user_shelf[i].name %></a></li>
+   <li><a href="/shelfInfo?shelfName=<%= response.user[0].user_shelves[0].user_shelf[i].name %>&pageNum=1"><%= response.user[0].user_shelves[0].user_shelf[i].name %></a></li>
 <% } %>
 </ul>

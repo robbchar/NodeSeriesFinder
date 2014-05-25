@@ -134,8 +134,9 @@ app.get('/userInfo',
 app.get('/shelfInfo',
   ensureAuthenticated,
   function(req, res) {
-    var pageNum = 1,
-      shelfName = 'read';
+    var pageNum = req.query.pageNum,
+      shelfName = req.query.shelfName;
+
     httpsOptions.path = '/review/list/' + req.user.id + '.xml?key=' + appInfo.key + '&page=' + pageNum + '&shelf=' + shelfName;
 
     requestResource(function (jsonData) {
@@ -147,12 +148,24 @@ app.get('/shelfInfo',
 app.get('/bookInfo',
   ensureAuthenticated,
   function(req, res) {
-    var bookId = 50;
-    // https://www.goodreads.com/book/show/50?format=xml&key=qWqSov4tZxgcRuMjoabsg
+    var bookId = req.query.bookId;
     httpsOptions.path = '/book/show/' + bookId + '.xml?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
       res.render('bookInfo', { response: jsonData });
+    });
+  }
+);
+
+app.get('/seriesInfo',
+  ensureAuthenticated,
+  function(req, res) {
+    var seriesId = req.query.seriesId;
+
+    httpsOptions.path = '/series/' + seriesId + '?key=' + appInfo.key;
+
+    requestResource(function (jsonData) {
+      res.render('seriesInfo', { response: jsonData });
     });
   }
 );

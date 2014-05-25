@@ -1,5 +1,5 @@
-Book title:  <%=  response.book[0].title[0]  %><br />
+Book title:  <%=  response.book[0].title[0]  %> <br />
+Book id:  <%=  response.book[0].id[0]  %> <br />
 <%if (response.book[0].series_works[0].series_work.length > 0) { %>
-series id <%= response.book[0].series_works[0].series_work[0].id[0] %>
+series id <a href="seriesInfo?seriesId=<%= response.book[0].series_works[0].series_work[0].series[0].id[0] %>"><%= response.book[0].series_works[0].series_work[0].series[0].id[0] %></a>
 <%}%>
-
