@@ -13,22 +13,14 @@ var express = require('express'),
   // used for goodsread oauth
   passport = require('passport'),
   GoodreadsStrategy = require('passport-goodreads').Strategy,
+  // app info
+  appInfo = require('./appInfo.json'), // this includes the keys for good reads
   port = 8000,
   host = '127.0.0.1',
   httpsOptions = {
         host: 'www.goodreads.com',
         port: 443
       },
-  // oauth urls
-  // request_token_url = 'http://goodreads.com/oauth/request_token',
-  // authorize_url = 'http://goodreads.com/api/auth_user',
-  // access_token_url = 'http://goodreads.com/oauth/access_token',
-  // app info
-  appInfo = {
-    name: 'SeriesFinder',
-    key: 'qWqSov4tZxgcRuMjoabsg',
-    secret: 'eLcDMc54u9w4bryXiyXNOlbDUMGB8bZpbla87LYrI'
-  },
   // oauth tokens
   oauthAccessToken = undefined,
   oauthAccessTokenSecret = undefined;

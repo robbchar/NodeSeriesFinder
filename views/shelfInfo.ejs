@@ -5,3 +5,8 @@ Books:
    <li><a href="/bookInfo?bookId=<%= response.books[0].book[i].id[0]._ %>"><%= response.books[0].book[i].title[0] %></a></li>
 <% } %>
 </ul>
+Pagenum: <%= response.books[0].$.currentpage %>
+
+<% for(var i=1; i < response.books[0].$.numpages; i++) {%>
+   i &nbsp;
+<% } %>
