@@ -10,11 +10,13 @@ var express = require('express'),
   xml2jsParser = require('xml2js').Parser(),
   methodOverride = require('method-override'),
   https = require('https'),
-  // used for goodsread oauth
+  // used for goodreads oauth
   passport = require('passport'),
   GoodreadsStrategy = require('passport-goodreads').Strategy,
   // app info
   appInfo = require('./appInfo.json'), // this includes the keys for good reads
+  // is the nodeOnly argument passed in
+  nodeOnly = (process.argv.indexOf('nodeOnly') > -1)
   port = 8000,
   host = '127.0.0.1',
   httpsOptions = {
@@ -118,7 +120,7 @@ app.get('/userInfo',
     httpsOptions.path = '/user/show/' + req.user.id + '.xml?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      if(req.query.nodeOnly === 'true') {
+      if(nodeOnly === true) {
         res.render('userInfo', { response: jsonData });
         return;
       }
@@ -137,7 +139,7 @@ app.get('/shelfInfo',
     httpsOptions.path = '/review/list/' + req.user.id + '.xml?key=' + appInfo.key + '&page=' + pageNum + '&shelf=' + shelfName;
 
     requestResource(function (jsonData) {
-      if(req.query.nodeOnly === 'true') {
+      if(nodeOnly === true) {
         res.render('shelfInfo', { response: jsonData, name: shelfName });
         return;
       }
@@ -154,7 +156,7 @@ app.get('/bookInfo',
     httpsOptions.path = '/book/show/' + bookId + '.xml?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      if(req.query.nodeOnly === 'true') {
+      if(nodeOnly === true) {
         res.render('bookInfo', { response: jsonData });
         return;
       }
@@ -172,7 +174,7 @@ app.get('/seriesInfo',
     httpsOptions.path = '/series/' + seriesId + '?key=' + appInfo.key;
 
     requestResource(function (jsonData) {
-      if(req.query.nodeOnly === 'true') {
+      if(nodeOnly === true) {
         res.render('seriesInfo', { response: jsonData });
         return;
       }
