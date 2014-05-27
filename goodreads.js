@@ -26,8 +26,8 @@ var express = require('express'),
   // app info
   appInfo = {
     name: 'SeriesFinder',
-    key: 'qWqSov4tZxgcRuMjoabsg',
-    secret: 'eLcDMc54u9w4bryXiyXNOlbDUMGB8bZpbla87LYrI'
+    key: 'qWqSov4tZxgcRuMjoabsg12',
+    secret: 'eLcDMc54u9w4bryXiyXNOlbDUMGB8bZpbla87LYrI12'
   },
   // oauth tokens
   oauthAccessToken = undefined,
