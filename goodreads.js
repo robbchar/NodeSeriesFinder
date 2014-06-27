@@ -18,7 +18,7 @@ var express = require('express'),
   // is the nodeOnly argument passed in
   nodeOnly = (process.argv.indexOf('nodeOnly') > -1)
   port = 8000,
-  host = '127.0.0.1',
+  host = '54.191.4.199',
   httpsOptions = {
         host: 'www.goodreads.com',
         port: 443
