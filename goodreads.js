@@ -18,14 +18,22 @@ var express = require('express'),
   // is the nodeOnly argument passed in
   nodeOnly = (process.argv.indexOf('nodeOnly') > -1)
   port = 8000,
-  host = '54.191.4.199',
+  host = '127.0.0.1',
+  // host = '54.191.4.199', //AWS
   httpsOptions = {
         host: 'www.goodreads.com',
         port: 443
       },
   // oauth tokens
   oauthAccessToken = undefined,
-  oauthAccessTokenSecret = undefined;
+  oauthAccessTokenSecret = undefined,
+  goodReadsCallQueue = [],
+  goodReadsCallStates = {
+    waiting: 0,
+    active: 1
+  },
+  goodReadsCallState = goodReadsCallStates.waiting, // this can have one of three
+  lastGoodReadsCallTime = 0;
 
 // Passport session setup.
 //   To support persistent login sessions, Passport needs to be able to
@@ -52,6 +60,7 @@ passport.use(new GoodreadsStrategy({
   consumerSecret: appInfo.secret,
   callbackURL: "http://" + host + ":" + port + "/auth/goodreads/callback"
 },
+
 function(token, tokenSecret, profile, done) {
     // asynchronous verification, for effect...
     process.nextTick(function () {
@@ -63,7 +72,7 @@ function(token, tokenSecret, profile, done) {
       return done(null, profile);
     });
   }
-  ));
+));
 
 // configure Express
 app.set('views', __dirname + '/views');
@@ -87,11 +96,15 @@ util.log('Listening on port ' + port);
 // Handlers
 // Home Page
 app.get('/', function(req, res){
-  res.render('index', { user: req.user });
+  if(nodeOnly === true) {
+    res.render('index', { user: req.user });
+  }
 });
 
 app.get('/login', function(req, res){
-  res.render('login', { user: req.user });
+  if(nodeOnly === true) {
+    res.render('login', { user: req.user });
+  }
 });
 
 app.get('/auth/goodreads',
@@ -117,9 +130,8 @@ app.get('/logout', function(req, res){
 app.get('/userInfo',
   ensureAuthenticated,
   function(req, res) {
-    httpsOptions.path = '/user/show/' + req.user.id + '.xml?key=' + appInfo.key;
 
-    requestResource(function (jsonData) {
+    requestGoodReadsResource('/user/show/' + req.user.id + '.xml?key=' + appInfo.key, function (jsonData) {
       if(nodeOnly === true) {
         res.render('userInfo', { response: jsonData });
         return;
@@ -136,9 +148,7 @@ app.get('/shelfInfo',
     var pageNum = req.query.pageNum,
       shelfName = req.query.shelfName;
 
-    httpsOptions.path = '/review/list/' + req.user.id + '.xml?key=' + appInfo.key + '&page=' + pageNum + '&shelf=' + shelfName;
-
-    requestResource(function (jsonData) {
+    requestGoodReadsResource('/review/list/' + req.user.id + '.xml?key=' + appInfo.key + '&page=' + pageNum + '&shelf=' + shelfName, function (jsonData) {
       if(nodeOnly === true) {
         res.render('shelfInfo', { response: jsonData, name: shelfName });
         return;
@@ -153,9 +163,8 @@ app.get('/bookInfo',
   ensureAuthenticated,
   function(req, res) {
     var bookId = req.query.bookId;
-    httpsOptions.path = '/book/show/' + bookId + '.xml?key=' + appInfo.key;
 
-    requestResource(function (jsonData) {
+    requestGoodReadsResource('/book/show/' + bookId + '.xml?key=' + appInfo.key, function (jsonData) {
       if(nodeOnly === true) {
         res.render('bookInfo', { response: jsonData });
         return;
@@ -171,9 +180,7 @@ app.get('/seriesInfo',
   function(req, res) {
     var seriesId = req.query.seriesId;
 
-    httpsOptions.path = '/series/' + seriesId + '?key=' + appInfo.key;
-
-    requestResource(function (jsonData) {
+    requestGoodReadsResource('/series/' + seriesId + '?key=' + appInfo.key, function (jsonData) {
       if(nodeOnly === true) {
         res.render('seriesInfo', { response: jsonData });
         return;
@@ -189,7 +196,26 @@ function ensureAuthenticated(req, res, next) {
   res.redirect('/login')
 }
 
-function requestResource(callback) {
+function requestGoodReadsResource(path, callback) {
+  var requestInfo = {
+    "callback": callback,
+    "path": path
+  };
+
+  goodReadsCallQueue.push(requestInfo);
+
+  // good reads terms of use state that no more than one call per second can take place
+  // if something is not happening then start the calls
+  if(goodReadsCallQueue.length === 1 && goodReadsCallState === goodReadsCallStates.waiting) { // no call is happening
+    makeGoodReadsCall();
+  }
+}
+
+function makeGoodReadsCall () {
+  goodReadsCallState = goodReadsCallStates.active;
+  lastGoodReadsCallTime = new Date().getTime();
+  var requestInfo = goodReadsCallQueue.shift();
+  httpsOptions.path = requestInfo.path;
   //this is the call
   request = https.get(httpsOptions, function(httpsResponse){
     var userXml = "";
@@ -199,7 +225,20 @@ function requestResource(callback) {
 
     httpsResponse.on('end', function() {
       xml2jsParser.parseString(userXml, function(err, result){
-        callback(result['GoodreadsResponse']);
+        requestInfo.callback(result['GoodreadsResponse']);
+
+        if(goodReadsCallQueue.length > 0) { // there is a call waiting to happen
+          var numMillisecondsBetweenCalls = 1000,
+            timeSinceLastCall = new Date().getTime() - lastGoodReadsCallTime;
+
+          if(timeSinceLastCall > numMillisecondsBetweenCalls) {
+            makeGoodReadsCall();
+          } else {
+            setTimeout(numMillisecondsBetweenCalls - timeSinceLastCall, makeGoodReadsCall)
+          }
+        } else {
+          goodReadsCallState = goodReadsCallStates.waiting;
+        }
       });
     })
 
