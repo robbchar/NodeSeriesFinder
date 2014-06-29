@@ -7,8 +7,11 @@ Books:
 		<% } %>
 	</ul>
 <% } %>
-Pagenum: <%= response.books[0].$.currentpage %>
-
-<% for(var i=1; i < response.books[0].$.numpages; i++) {%>
-   i &nbsp;
+All Pages
+<% for(var i = 1, numpages = response.books[0].$.numpages; i < numpages; i++) {%>
+  <% if (i != response.books[0].$.currentpage) { %>
+     <a href="/shelfInfo?shelfName=read&pageNum=<%= i %>"><%= i %></a> &nbsp;
+  <% } else { %>
+    <%= i %>
+  <% } %>
 <% } %>
