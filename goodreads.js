@@ -72,10 +72,15 @@ app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 app.use(morgan('dev'));
 app.use(cookieParser());
-app.use(bodyParser());
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
+app.use(bodyParser.json());
 app.use(methodOverride());
 app.use(session({
-  secret: "skjghskdjfhbqigohqdiouk"
+  secret: "skjghskdjfhbqigohqdiouk", 
+  saveUninitialized: true,
+  resave: true
 }));
 
 // Initialize Passport!  Also use passport.session() middleware, to support
