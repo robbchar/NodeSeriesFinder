@@ -1,0 +1,11 @@
+
+<div class="row" data-ng-if="!isLoggedIn">
+  <a href="/auth/goodreads">Login with Goodreads</a>
+  <a href="/login">link to node oauth</a>
+  <p data-ng-click="getUserInfo()">User Info</p>
+  <p data-ng-click="checkIfIsLoggedIn()">IsLoggedIn</p>
+</div>
+<div class="row" data-ng-if="isLoggedIn">
+  Welcome {{ user.name[0] }}
+</div>
+
